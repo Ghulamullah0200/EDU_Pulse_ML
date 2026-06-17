@@ -18,6 +18,7 @@ __pycache__/
 backend/.env
 backend/venv/
 backend/env/
+backend/*.db
 ml_pipeline/venv/
 ml_pipeline/env/
 .pytest_cache/
