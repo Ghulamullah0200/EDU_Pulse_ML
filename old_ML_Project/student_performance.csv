@@ -1,0 +1,1001 @@
+student_id,age,gender,department,semester,study_hours_per_week,attendance_percentage,assignment_average,midterm_score,previous_gpa,internet_access,extra_academic_support,part_time_job,extracurricular_hours_per_week,absences,final_score,at_risk,risk_label
+STU1001,17,Female,Engineering,2,19.3,91.2,77.5,66.7,2.96,Yes,No,No,6.5,5,85.3,0,Not At Risk
+STU1002,23,Female,Social Sciences,1,10.2,82.8,64.6,43.2,3.69,Yes,Yes,Yes,0.0,4,71.2,0,Not At Risk
+STU1003,22,Female,Business,6,2.0,80.5,60.6,49.6,2.6,Yes,No,No,2.9,3,60.4,0,Not At Risk
+STU1004,20,Male,Business,6,5.2,92.4,73.6,50.2,2.43,Yes,Yes,No,0.6,4,70.5,0,Not At Risk
+STU1005,20,Female,Social Sciences,7,21.1,83.6,46.6,78.5,2.53,No,No,Yes,3.9,8,69.9,0,Not At Risk
+STU1006,23,Female,Business,8,12.0,78.8,79.8,70.7,2.74,Yes,No,No,7.0,7,74.1,0,Not At Risk
+STU1007,17,Male,Engineering,4,10.2,95.8,56.7,76.2,2.8,Yes,No,No,0.0,2,79.4,0,Not At Risk
+STU1008,22,Female,Business,7,22.2,79.4,75.2,39.4,2.37,Yes,Yes,No,3.4,3,70.5,0,Not At Risk
+STU1009,18,Male,Computer Science,6,20.3,74.3,62.7,44.7,1.68,Yes,No,Yes,3.0,2,61.6,1,At Risk
+STU1010,17,Male,Engineering,3,14.1,67.9,66.3,76.9,2.52,Yes,No,No,9.2,9,60.9,0,Not At Risk
+STU1011,21,Male,Computer Science,7,12.5,86.4,59.4,25.3,3.06,Yes,No,No,5.8,4,71.8,0,Not At Risk
+STU1012,24,Female,Computer Science,1,13.3,92.8,67.7,85.4,2.93,Yes,No,No,1.0,5,71.2,0,Not At Risk
+STU1013,22,Male,Engineering,5,15.1,77.4,96.5,39.7,3.55,Yes,Yes,Yes,3.1,7,75.4,0,Not At Risk
+STU1014,23,Male,Engineering,8,22.0,93.7,89.4,79.7,3.98,Yes,No,Yes,9.2,1,86.2,0,Not At Risk
+STU1015,22,Male,Social Sciences,6,16.1,54.4,75.0,53.7,3.29,Yes,No,No,6.6,12,61.4,1,At Risk
+STU1016,23,Male,Computer Science,8,17.6,77.3,69.6,82.7,3.65,Yes,Yes,No,1.7,9,76.2,1,At Risk
+STU1017,21,Male,Computer Science,1,19.8,77.5,81.8,100.0,3.29,Yes,No,Yes,3.7,6,85.4,0,Not At Risk
+STU1018,18,Female,Social Sciences,5,8.2,69.3,85.8,32.9,3.84,Yes,Yes,No,3.8,2,73.8,0,Not At Risk
+STU1019,23,Male,Computer Science,7,17.8,100.0,58.4,77.4,3.92,Yes,No,No,2.9,3,80.0,0,Not At Risk
+STU1020,20,Female,Computer Science,6,12.5,77.2,68.9,39.9,3.4,Yes,Yes,Yes,0.0,5,67.0,0,Not At Risk
+STU1021,21,Female,Computer Science,8,2.0,73.1,44.5,73.4,3.26,Yes,No,Yes,2.5,3,72.4,0,Not At Risk
+STU1022,19,Male,Business,4,3.4,78.3,85.7,63.9,2.73,Yes,No,No,8.7,1,64.1,1,At Risk
+STU1023,18,Male,Social Sciences,6,8.9,54.0,98.9,68.9,2.83,Yes,Yes,No,3.4,6,66.0,1,At Risk
+STU1024,24,Female,Engineering,4,16.7,68.9,71.1,53.3,2.65,Yes,No,No,4.2,6,69.4,0,Not At Risk
+STU1025,23,Male,Engineering,7,14.6,89.8,40.2,78.7,3.21,Yes,No,No,4.9,8,70.5,0,Not At Risk
+STU1026,22,Male,Computer Science,1,14.9,70.5,78.5,45.3,2.43,Yes,No,Yes,11.2,7,61.5,0,Not At Risk
+STU1027,20,Female,Business,3,23.8,68.1,57.3,85.6,2.74,No,No,No,4.5,2,79.0,0,Not At Risk
+STU1028,23,Female,Business,1,7.7,93.7,60.7,60.9,1.48,Yes,No,No,7.8,8,52.4,1,At Risk
+STU1029,21,Female,Computer Science,6,13.9,94.1,78.8,46.0,3.85,No,No,No,2.7,7,71.0,0,Not At Risk
+STU1030,20,Male,Computer Science,2,15.5,84.2,73.6,90.9,2.72,No,No,No,3.7,5,72.6,0,Not At Risk
+STU1031,20,Female,Computer Science,3,10.3,72.5,63.2,66.0,3.11,Yes,Yes,No,4.5,3,69.0,0,Not At Risk
+STU1032,18,Female,Computer Science,7,14.1,75.1,60.9,95.6,3.7,Yes,Yes,No,2.2,5,89.9,1,At Risk
+STU1033,17,Male,Business,3,6.0,68.4,71.8,85.3,3.02,Yes,No,No,3.9,2,64.1,0,Not At Risk
+STU1034,21,Female,Engineering,2,21.0,66.1,64.3,55.0,3.69,Yes,No,Yes,7.2,8,62.0,0,Not At Risk
+STU1035,24,Male,Computer Science,1,10.6,65.5,54.5,65.7,2.13,Yes,No,No,2.1,3,51.8,1,At Risk
+STU1036,17,Male,Business,2,24.2,70.6,65.3,68.8,4.0,Yes,No,No,4.5,7,86.4,0,Not At Risk
+STU1037,23,Female,Engineering,8,13.8,65.6,74.8,89.9,3.48,Yes,No,No,6.6,4,76.0,0,Not At Risk
+STU1038,23,Male,Engineering,5,19.1,59.2,67.5,73.6,2.97,Yes,No,Yes,2.0,15,60.3,1,At Risk
+STU1039,19,Male,Social Sciences,8,13.7,80.6,50.2,69.6,3.68,Yes,No,No,7.8,1,66.6,0,Not At Risk
+STU1040,22,Female,Business,2,13.8,80.8,83.8,64.0,2.17,Yes,No,No,4.7,2,69.6,0,Not At Risk
+STU1041,18,Female,Social Sciences,3,11.1,98.4,31.7,66.2,2.68,No,Yes,No,4.0,8,66.5,0,Not At Risk
+STU1042,23,Female,Computer Science,2,14.6,70.0,63.8,86.6,3.69,Yes,Yes,No,0.0,7,79.7,0,Not At Risk
+STU1043,22,Female,Business,4,15.6,81.6,61.3,67.1,1.77,Yes,Yes,Yes,3.4,2,64.9,0,Not At Risk
+STU1044,19,Female,Computer Science,5,10.1,81.8,72.1,61.1,3.18,No,Yes,No,5.6,6,60.9,0,Not At Risk
+STU1045,17,Male,Business,7,13.4,75.0,77.9,58.5,3.16,Yes,No,No,9.7,13,63.9,0,Not At Risk
+STU1046,24,Male,Business,3,10.9,86.9,85.8,58.7,3.99,Yes,Yes,No,6.2,4,83.5,0,Not At Risk
+STU1047,20,Male,Computer Science,7,25.5,87.3,60.0,46.0,1.93,Yes,Yes,Yes,7.9,1,61.0,1,At Risk
+STU1048,24,Male,Engineering,6,13.6,81.9,78.2,55.7,3.78,Yes,No,Yes,0.9,5,79.3,0,Not At Risk
+STU1049,22,Female,Computer Science,3,21.7,74.9,72.7,89.5,2.53,No,No,No,4.1,5,79.7,0,Not At Risk
+STU1050,23,Male,Computer Science,8,13.0,73.7,46.0,63.9,2.59,Yes,No,Yes,8.2,2,59.8,0,Not At Risk
+STU1051,23,Male,Computer Science,4,15.3,61.6,96.6,77.6,2.14,Yes,No,No,1.8,13,69.7,0,Not At Risk
+STU1052,18,Male,Business,2,7.4,68.3,49.9,29.8,2.22,Yes,No,Yes,7.4,10,43.2,1,At Risk
+STU1053,19,Male,Computer Science,8,11.8,70.5,75.9,75.5,3.08,Yes,Yes,No,6.7,5,81.1,0,Not At Risk
+STU1054,20,Female,Business,8,15.1,64.5,75.5,64.6,2.2,Yes,No,No,5.3,9,73.1,0,Not At Risk
+STU1055,20,Male,Computer Science,1,21.9,83.3,73.9,59.8,3.28,Yes,Yes,No,3.5,4,72.5,0,Not At Risk
+STU1056,17,Male,Engineering,8,15.1,92.4,63.1,69.7,2.47,Yes,No,Yes,1.5,4,75.0,0,Not At Risk
+STU1057,21,Male,Social Sciences,8,20.9,67.1,81.6,59.6,2.15,Yes,No,Yes,9.8,7,71.9,0,Not At Risk
+STU1058,18,Male,Business,7,17.2,81.4,48.2,35.1,2.54,Yes,No,Yes,6.4,4,52.0,1,At Risk
+STU1059,22,Female,Engineering,3,22.1,65.6,69.1,80.8,3.05,No,No,Yes,5.5,7,67.7,0,Not At Risk
+STU1060,22,Male,Social Sciences,6,13.7,74.3,62.1,70.6,2.69,Yes,No,No,3.3,3,65.9,0,Not At Risk
+STU1061,24,Male,Social Sciences,5,26.0,69.7,60.5,62.3,2.87,Yes,No,No,4.6,6,68.6,1,At Risk
+STU1062,22,Male,Engineering,5,11.6,85.2,76.0,52.5,3.25,Yes,No,Yes,5.0,0,72.3,0,Not At Risk
+STU1063,19,Female,Social Sciences,5,10.2,69.9,85.1,45.0,3.48,Yes,No,Yes,5.7,6,66.8,0,Not At Risk
+STU1064,24,Female,Social Sciences,6,7.9,90.1,65.2,70.4,2.67,Yes,No,No,6.7,3,75.9,0,Not At Risk
+STU1065,20,Female,Engineering,5,25.7,75.1,80.9,91.2,2.24,Yes,Yes,Yes,2.2,5,68.2,0,Not At Risk
+STU1066,19,Female,Business,6,18.1,70.2,70.7,70.0,2.89,Yes,No,No,0.1,4,66.7,0,Not At Risk
+STU1067,24,Female,Computer Science,5,12.3,63.0,57.5,46.3,3.12,No,Yes,No,4.8,9,61.0,0,Not At Risk
+STU1068,19,Male,Computer Science,1,20.2,81.0,66.4,70.4,2.0,No,No,Yes,0.0,6,67.3,0,Not At Risk
+STU1069,17,Male,Business,1,17.4,88.7,65.8,66.2,2.33,Yes,Yes,No,3.5,3,66.4,0,Not At Risk
+STU1070,20,Female,Business,8,23.8,81.3,60.2,80.0,2.43,Yes,No,Yes,3.0,5,75.4,0,Not At Risk
+STU1071,23,Male,Business,8,6.3,100.0,76.0,76.1,2.73,Yes,Yes,No,6.0,6,83.7,0,Not At Risk
+STU1072,18,Female,Engineering,5,12.7,95.2,73.3,22.2,2.41,Yes,Yes,No,10.4,7,60.4,0,Not At Risk
+STU1073,20,Male,Business,2,11.7,74.3,47.7,75.2,3.26,Yes,No,No,0.0,6,62.4,0,Not At Risk
+STU1074,18,Female,Social Sciences,7,4.1,74.2,46.9,51.9,1.92,Yes,Yes,No,11.3,5,57.7,1,At Risk
+STU1075,22,Female,Computer Science,2,19.3,83.6,75.9,45.7,1.93,No,No,No,3.8,5,71.4,1,At Risk
+STU1076,20,Male,Computer Science,4,12.6,67.9,58.6,64.2,2.66,Yes,No,No,5.5,11,54.1,1,At Risk
+STU1077,19,Female,Engineering,3,17.7,92.0,74.2,73.2,2.75,Yes,No,No,0.3,7,75.6,0,Not At Risk
+STU1078,18,Female,Social Sciences,1,25.8,82.3,80.9,42.4,2.01,Yes,Yes,No,7.5,4,74.9,0,Not At Risk
+STU1079,21,Female,Social Sciences,7,12.2,81.1,52.2,77.6,2.5,Yes,No,No,4.6,10,64.2,0,Not At Risk
+STU1080,22,Male,Social Sciences,5,11.9,86.2,50.2,78.5,2.62,Yes,No,No,4.3,6,58.0,0,Not At Risk
+STU1081,24,Male,Social Sciences,3,14.6,98.7,93.4,67.7,2.62,Yes,No,Yes,0.0,1,83.6,0,Not At Risk
+STU1082,20,Female,Computer Science,5,18.9,80.1,74.9,54.0,2.94,Yes,Yes,Yes,4.7,6,65.5,0,Not At Risk
+STU1083,18,Male,Business,1,11.2,76.6,64.1,52.3,2.47,No,No,No,7.0,4,53.2,1,At Risk
+STU1084,23,Male,Computer Science,4,10.8,96.1,56.9,82.4,3.71,Yes,No,Yes,3.8,3,70.7,0,Not At Risk
+STU1085,22,Female,Engineering,5,19.3,89.6,62.9,44.3,3.13,No,No,No,8.0,6,73.8,0,Not At Risk
+STU1086,22,Female,Social Sciences,3,15.9,74.1,53.3,83.0,2.38,Yes,Yes,Yes,7.9,6,62.6,0,Not At Risk
+STU1087,17,Male,Business,7,3.8,78.1,82.4,64.5,2.9,Yes,Yes,No,2.6,6,72.0,0,Not At Risk
+STU1088,19,Male,Business,2,7.9,80.3,59.1,65.6,2.92,Yes,Yes,No,9.3,2,73.6,0,Not At Risk
+STU1089,23,Male,Computer Science,2,21.5,82.3,85.3,41.4,3.55,Yes,No,No,4.6,5,76.9,0,Not At Risk
+STU1090,23,Male,Computer Science,5,16.0,61.7,64.4,64.8,2.5,Yes,No,No,4.6,7,64.0,0,Not At Risk
+STU1091,20,Female,Computer Science,8,10.2,59.5,55.4,76.2,3.3,Yes,No,Yes,4.8,7,67.1,1,At Risk
+STU1092,23,Male,Computer Science,4,13.1,67.4,64.0,47.0,2.87,Yes,No,Yes,4.7,10,58.1,0,Not At Risk
+STU1093,23,Male,Social Sciences,1,14.1,66.4,33.3,74.5,3.72,Yes,Yes,No,0.0,5,64.8,0,Not At Risk
+STU1094,20,Female,Business,8,17.7,70.3,68.3,68.3,3.6,Yes,No,No,3.9,5,70.4,0,Not At Risk
+STU1095,24,Male,Social Sciences,4,7.2,85.6,67.6,57.3,2.96,Yes,No,No,0.4,5,67.1,0,Not At Risk
+STU1096,19,Male,Engineering,2,9.8,76.0,81.5,79.8,2.7,Yes,No,No,9.4,1,75.5,0,Not At Risk
+STU1097,18,Female,Computer Science,5,15.4,80.4,43.6,34.0,3.14,No,No,No,9.3,5,60.0,0,Not At Risk
+STU1098,22,Female,Computer Science,3,13.5,63.3,86.3,72.2,2.75,Yes,Yes,No,7.1,13,73.4,0,Not At Risk
+STU1099,22,Female,Social Sciences,8,16.9,72.5,81.5,91.3,3.82,Yes,No,No,3.8,6,86.7,0,Not At Risk
+STU1100,18,Female,Computer Science,3,7.9,85.0,87.5,88.6,2.9,Yes,No,No,1.5,5,74.9,0,Not At Risk
+STU1101,23,Male,Social Sciences,5,15.8,85.1,69.3,72.8,2.61,Yes,No,Yes,2.5,6,58.4,0,Not At Risk
+STU1102,18,Female,Computer Science,5,19.5,69.3,84.2,62.5,2.58,No,No,Yes,10.3,6,62.8,0,Not At Risk
+STU1103,23,Female,Engineering,2,16.4,79.9,49.4,57.5,2.15,Yes,No,No,2.4,2,54.9,1,At Risk
+STU1104,17,Female,Social Sciences,4,14.7,100.0,80.0,62.5,3.17,Yes,Yes,No,0.0,4,76.9,0,Not At Risk
+STU1105,23,Female,Computer Science,1,13.5,77.8,59.2,75.2,2.37,Yes,No,No,7.6,3,69.7,0,Not At Risk
+STU1106,23,Female,Computer Science,6,9.8,69.7,46.9,54.9,3.49,No,No,No,9.0,1,64.8,0,Not At Risk
+STU1107,23,Female,Social Sciences,7,13.6,75.9,54.3,78.4,2.1,Yes,No,No,9.5,6,74.3,0,Not At Risk
+STU1108,22,Male,Computer Science,8,20.3,79.1,70.1,99.0,2.92,No,Yes,No,7.6,6,83.0,0,Not At Risk
+STU1109,20,Female,Business,3,13.4,76.2,58.5,66.1,3.52,Yes,Yes,Yes,8.1,1,86.0,0,Not At Risk
+STU1110,22,Male,Business,3,9.6,77.6,75.3,46.8,1.6,No,No,No,4.7,3,60.2,1,At Risk
+STU1111,19,Female,Computer Science,5,11.5,60.7,44.7,46.8,4.0,Yes,No,Yes,0.0,8,66.2,0,Not At Risk
+STU1112,23,Female,Engineering,6,15.0,66.4,40.2,78.6,2.6,Yes,No,No,4.6,8,59.0,0,Not At Risk
+STU1113,21,Female,Engineering,8,12.1,76.2,89.2,66.1,2.93,Yes,No,No,6.4,5,67.9,0,Not At Risk
+STU1114,20,Female,Business,1,16.4,76.0,82.7,80.2,3.18,Yes,Yes,No,4.1,3,79.6,0,Not At Risk
+STU1115,21,Male,Social Sciences,2,16.6,71.2,55.3,59.0,3.27,No,No,Yes,4.0,6,63.9,0,Not At Risk
+STU1116,21,Female,Computer Science,3,18.4,75.9,70.0,79.5,3.01,No,Yes,Yes,1.6,3,72.2,0,Not At Risk
+STU1117,17,Female,Computer Science,3,21.1,78.7,84.3,64.6,3.43,Yes,Yes,No,1.5,4,76.2,0,Not At Risk
+STU1118,18,Male,Engineering,4,19.0,88.7,75.9,56.0,3.15,No,No,No,10.0,6,74.9,1,At Risk
+STU1119,18,Male,Social Sciences,7,9.3,76.8,72.1,61.0,3.87,Yes,No,No,10.1,4,69.4,0,Not At Risk
+STU1120,17,Male,Computer Science,1,9.5,82.8,85.3,49.0,3.15,Yes,No,Yes,4.5,5,61.2,0,Not At Risk
+STU1121,20,Female,Computer Science,7,13.6,71.5,59.8,96.8,3.99,Yes,No,No,5.3,5,75.4,0,Not At Risk
+STU1122,22,Male,Business,5,11.7,84.9,70.4,65.6,3.37,Yes,No,Yes,1.6,5,72.2,0,Not At Risk
+STU1123,22,Female,Social Sciences,5,8.3,82.5,69.8,76.7,1.8,Yes,No,No,6.4,3,60.7,0,Not At Risk
+STU1124,20,Male,Computer Science,6,11.8,88.4,66.2,58.9,4.0,Yes,Yes,No,9.8,6,76.4,0,Not At Risk
+STU1125,23,Female,Business,1,11.6,86.6,64.5,51.2,2.52,Yes,No,No,0.0,6,67.1,0,Not At Risk
+STU1126,21,Male,Engineering,6,10.6,85.1,71.0,63.5,3.72,Yes,No,No,5.9,6,78.7,0,Not At Risk
+STU1127,17,Female,Business,2,12.4,76.8,70.5,83.5,2.87,Yes,No,No,6.1,6,69.6,0,Not At Risk
+STU1128,23,Male,Computer Science,5,19.9,80.9,55.3,59.2,3.47,Yes,No,No,6.1,8,62.8,0,Not At Risk
+STU1129,21,Female,Computer Science,6,15.0,90.8,81.2,53.9,2.45,Yes,Yes,No,9.4,4,69.2,0,Not At Risk
+STU1130,22,Female,Business,5,26.4,70.2,56.3,69.3,3.21,Yes,No,No,10.6,7,75.7,0,Not At Risk
+STU1131,21,Female,Business,3,14.9,70.5,66.9,74.5,2.7,Yes,No,No,3.8,4,75.3,0,Not At Risk
+STU1132,21,Female,Social Sciences,4,12.5,80.2,65.9,91.6,3.77,Yes,No,No,6.5,5,83.9,0,Not At Risk
+STU1133,17,Male,Engineering,4,14.0,83.0,75.0,72.3,3.1,Yes,No,No,4.8,6,82.0,0,Not At Risk
+STU1134,21,Male,Engineering,1,15.3,68.1,40.3,76.7,3.39,Yes,No,No,2.6,7,76.9,0,Not At Risk
+STU1135,23,Male,Social Sciences,6,16.2,77.1,82.5,77.8,1.59,Yes,Yes,No,5.3,4,67.6,0,Not At Risk
+STU1136,19,Male,Business,1,24.4,76.9,60.5,49.7,2.8,Yes,No,Yes,6.5,6,74.3,0,Not At Risk
+STU1137,21,Female,Business,4,9.8,51.4,87.1,52.6,3.09,No,No,Yes,5.2,11,56.3,1,At Risk
+STU1138,17,Female,Social Sciences,6,18.3,75.4,63.3,50.7,2.98,Yes,Yes,No,1.9,4,75.0,0,Not At Risk
+STU1139,19,Female,Computer Science,1,15.0,76.1,69.3,47.0,3.41,No,No,No,3.1,1,74.0,0,Not At Risk
+STU1140,20,Female,Engineering,8,6.1,76.1,96.8,78.9,2.64,No,No,No,3.1,5,61.4,0,Not At Risk
+STU1141,24,Female,Engineering,4,17.9,95.0,66.1,71.4,2.88,Yes,No,No,2.0,5,70.7,0,Not At Risk
+STU1142,18,Female,Computer Science,1,20.3,63.4,87.3,68.2,3.54,Yes,No,No,5.4,12,66.4,0,Not At Risk
+STU1143,19,Male,Business,6,9.7,68.1,70.5,28.1,1.53,Yes,No,Yes,5.8,9,34.6,1,At Risk
+STU1144,20,Male,Computer Science,5,14.0,46.7,75.8,97.8,3.19,Yes,Yes,No,7.4,12,76.4,1,At Risk
+STU1145,24,Female,Computer Science,6,5.4,72.2,71.0,53.6,2.66,Yes,No,No,1.9,5,73.7,0,Not At Risk
+STU1146,23,Female,Business,7,7.7,73.3,81.9,97.8,2.32,No,No,No,2.8,5,70.5,0,Not At Risk
+STU1147,17,Male,Computer Science,4,19.2,71.9,60.4,45.3,3.05,Yes,No,No,9.2,2,72.1,0,Not At Risk
+STU1148,18,Male,Engineering,7,11.7,91.3,56.2,54.8,3.56,Yes,No,Yes,4.0,3,80.4,0,Not At Risk
+STU1149,23,Female,Social Sciences,3,8.5,88.3,61.1,34.0,3.45,Yes,Yes,Yes,4.6,2,68.6,0,Not At Risk
+STU1150,17,Male,Social Sciences,5,15.1,78.9,71.4,72.4,2.77,Yes,No,No,4.0,0,75.8,0,Not At Risk
+STU1151,23,Male,Computer Science,2,11.4,73.6,66.9,50.5,3.36,Yes,Yes,No,7.9,7,66.0,0,Not At Risk
+STU1152,19,Female,Computer Science,5,11.6,90.3,79.9,50.9,3.35,No,No,Yes,8.0,7,72.6,0,Not At Risk
+STU1153,24,Female,Computer Science,3,17.7,77.8,88.3,46.4,2.8,Yes,No,No,7.8,4,76.2,0,Not At Risk
+STU1154,19,Male,Computer Science,6,8.2,68.2,56.3,78.7,2.45,Yes,No,No,4.6,2,68.4,0,Not At Risk
+STU1155,20,Female,Social Sciences,7,9.5,57.4,59.7,77.7,2.48,Yes,No,No,1.9,8,62.7,1,At Risk
+STU1156,22,Male,Business,7,14.8,72.7,49.9,94.2,3.34,Yes,No,No,10.3,5,75.1,0,Not At Risk
+STU1157,18,Female,Computer Science,8,18.8,87.1,98.4,56.7,2.83,Yes,Yes,No,7.1,2,72.4,0,Not At Risk
+STU1158,21,Male,Social Sciences,1,20.2,100.0,74.3,70.3,2.24,Yes,No,Yes,3.1,9,76.7,0,Not At Risk
+STU1159,21,Female,Business,2,10.7,78.7,76.7,47.7,1.87,Yes,Yes,Yes,8.8,6,52.2,1,At Risk
+STU1160,23,Male,Computer Science,8,18.7,68.8,51.2,62.0,3.33,Yes,No,No,2.9,4,72.4,0,Not At Risk
+STU1161,24,Male,Computer Science,4,10.1,63.8,70.0,59.2,2.53,No,No,No,8.7,8,62.1,0,Not At Risk
+STU1162,22,Female,Engineering,1,23.1,84.6,77.1,74.0,3.04,Yes,No,No,8.9,6,72.7,0,Not At Risk
+STU1163,20,Male,Engineering,3,8.3,56.8,66.5,82.3,3.57,Yes,Yes,Yes,1.7,10,65.2,1,At Risk
+STU1164,20,Male,Computer Science,7,20.6,84.6,85.1,81.9,2.09,Yes,No,No,6.2,1,91.4,0,Not At Risk
+STU1165,20,Male,Social Sciences,3,10.7,87.8,100.0,54.4,2.82,No,No,No,6.8,6,71.6,0,Not At Risk
+STU1166,23,Female,Social Sciences,1,24.1,83.2,56.7,82.0,2.75,Yes,No,No,12.3,8,66.5,0,Not At Risk
+STU1167,19,Female,Social Sciences,6,17.0,75.4,55.7,66.3,3.07,Yes,Yes,No,2.3,6,74.6,0,Not At Risk
+STU1168,18,Female,Computer Science,2,8.9,84.8,57.7,62.1,3.57,Yes,Yes,Yes,8.8,4,68.0,0,Not At Risk
+STU1169,19,Male,Computer Science,3,11.4,80.1,92.5,56.4,2.08,Yes,No,No,4.6,3,57.8,0,Not At Risk
+STU1170,17,Male,Social Sciences,1,17.9,68.7,84.6,58.6,3.18,Yes,Yes,No,0.8,6,77.0,1,At Risk
+STU1171,17,Male,Computer Science,5,19.3,100.0,68.1,93.1,3.45,Yes,No,No,4.1,6,81.5,0,Not At Risk
+STU1172,17,Female,Engineering,4,13.6,73.8,70.5,71.6,2.74,Yes,No,No,4.5,1,74.8,0,Not At Risk
+STU1173,23,Female,Engineering,7,14.2,87.3,58.6,69.6,2.77,Yes,Yes,No,1.3,4,67.9,0,Not At Risk
+STU1174,22,Female,Computer Science,3,17.8,49.0,82.5,63.1,3.09,Yes,No,Yes,5.4,11,67.8,1,At Risk
+STU1175,22,Female,Engineering,2,14.7,93.3,64.7,100.0,3.05,Yes,No,No,7.4,3,85.1,0,Not At Risk
+STU1176,20,Male,Social Sciences,2,7.5,95.6,66.4,86.6,3.19,Yes,Yes,No,5.2,6,64.4,0,Not At Risk
+STU1177,22,Female,Engineering,2,9.9,78.4,78.5,56.2,3.18,Yes,No,No,2.9,3,74.3,0,Not At Risk
+STU1178,18,Male,Business,4,15.2,84.7,67.4,62.9,2.28,Yes,Yes,No,4.1,2,69.1,1,At Risk
+STU1179,24,Male,Social Sciences,1,20.1,84.7,66.7,63.8,3.42,Yes,No,No,4.5,4,85.4,0,Not At Risk
+STU1180,21,Male,Business,4,22.1,70.3,70.1,69.2,3.53,Yes,No,No,5.2,3,80.7,0,Not At Risk
+STU1181,24,Male,Engineering,7,17.9,84.6,81.1,56.5,2.96,Yes,No,Yes,7.8,2,79.6,0,Not At Risk
+STU1182,18,Male,Social Sciences,7,15.4,68.3,93.1,73.6,1.98,Yes,No,No,5.3,6,65.1,0,Not At Risk
+STU1183,20,Male,Engineering,6,17.7,70.7,78.2,88.8,2.78,No,No,Yes,0.3,7,68.1,0,Not At Risk
+STU1184,22,Male,Computer Science,8,10.7,91.5,81.2,47.3,2.96,No,Yes,Yes,2.8,7,67.5,0,Not At Risk
+STU1185,20,Female,Computer Science,7,13.2,89.7,67.2,50.1,2.19,Yes,No,No,5.0,6,60.9,0,Not At Risk
+STU1186,20,Male,Computer Science,6,9.9,69.5,60.1,59.8,2.64,Yes,Yes,No,7.9,5,71.0,0,Not At Risk
+STU1187,18,Male,Business,7,7.8,69.2,79.2,60.4,2.03,Yes,No,No,8.4,2,62.7,0,Not At Risk
+STU1188,20,Female,Business,1,15.7,70.3,72.4,97.0,3.2,Yes,Yes,No,9.8,6,73.6,0,Not At Risk
+STU1189,18,Female,Engineering,7,14.9,86.8,50.1,82.0,2.95,Yes,No,No,4.9,3,69.6,1,At Risk
+STU1190,19,Female,Business,3,17.4,66.0,65.4,81.2,1.9,No,No,No,6.8,3,70.3,0,Not At Risk
+STU1191,22,Male,Engineering,6,16.7,82.3,68.8,63.0,3.05,No,No,No,0.1,4,70.3,0,Not At Risk
+STU1192,22,Female,Social Sciences,8,15.2,87.0,62.9,62.7,2.82,Yes,No,No,5.8,3,70.4,0,Not At Risk
+STU1193,21,Male,Computer Science,4,16.8,76.9,90.7,45.2,3.15,Yes,Yes,No,1.3,8,77.9,0,Not At Risk
+STU1194,19,Male,Engineering,1,13.8,90.1,76.7,78.7,2.62,Yes,No,No,4.3,7,69.4,0,Not At Risk
+STU1195,24,Female,Engineering,3,16.1,74.3,89.2,74.4,2.39,Yes,Yes,No,13.6,11,57.9,0,Not At Risk
+STU1196,17,Female,Business,4,10.4,75.4,73.7,86.3,2.4,Yes,Yes,Yes,5.4,1,69.8,0,Not At Risk
+STU1197,19,Female,Computer Science,8,15.8,66.3,71.1,63.8,2.54,No,No,No,1.9,9,62.5,0,Not At Risk
+STU1198,17,Female,Engineering,8,17.3,90.2,56.9,64.9,2.86,Yes,No,Yes,5.7,4,69.5,0,Not At Risk
+STU1199,19,Female,Social Sciences,5,10.7,68.8,70.2,69.6,2.94,Yes,No,Yes,2.9,3,60.3,0,Not At Risk
+STU1200,24,Male,Engineering,8,14.3,82.2,70.2,80.4,2.74,Yes,No,Yes,1.6,4,79.9,0,Not At Risk
+STU1201,19,Male,Social Sciences,4,10.9,77.1,50.9,44.9,2.6,Yes,Yes,Yes,10.8,1,62.3,0,Not At Risk
+STU1202,24,Male,Social Sciences,4,11.4,65.4,62.4,78.0,2.65,Yes,Yes,No,7.7,6,69.6,0,Not At Risk
+STU1203,20,Male,Business,7,8.4,70.7,65.5,66.7,4.0,Yes,No,No,5.5,5,76.0,1,At Risk
+STU1204,22,Female,Engineering,6,20.3,94.6,75.8,51.1,2.4,Yes,No,No,3.3,4,64.2,0,Not At Risk
+STU1205,20,Male,Business,5,19.3,80.4,76.5,35.7,2.53,Yes,Yes,No,3.6,2,69.9,0,Not At Risk
+STU1206,19,Female,Social Sciences,4,16.7,65.9,61.9,65.0,4.0,Yes,No,No,9.1,3,81.0,0,Not At Risk
+STU1207,23,Female,Computer Science,6,23.9,81.7,76.6,88.7,3.09,Yes,No,Yes,5.4,10,85.5,0,Not At Risk
+STU1208,24,Female,Business,7,13.1,76.2,67.5,92.1,2.05,Yes,No,Yes,0.0,2,75.6,0,Not At Risk
+STU1209,19,Male,Social Sciences,4,29.2,100.0,29.8,72.3,3.34,Yes,No,No,11.8,3,81.1,0,Not At Risk
+STU1210,23,Male,Computer Science,1,12.9,81.4,63.2,96.4,2.32,Yes,No,No,5.0,5,63.3,1,At Risk
+STU1211,19,Female,Engineering,1,15.3,73.4,85.1,66.4,3.38,Yes,No,No,5.5,5,76.7,0,Not At Risk
+STU1212,22,Female,Business,2,12.0,95.0,46.5,81.3,2.73,Yes,No,No,7.8,6,65.1,0,Not At Risk
+STU1213,23,Female,Social Sciences,4,15.9,55.9,71.6,60.2,2.59,Yes,No,No,5.9,11,66.5,1,At Risk
+STU1214,20,Female,Social Sciences,5,18.2,79.1,92.2,59.3,3.78,Yes,Yes,No,6.7,3,90.9,0,Not At Risk
+STU1215,22,Female,Computer Science,7,13.4,100.0,59.4,56.8,3.18,Yes,Yes,No,3.2,4,69.3,0,Not At Risk
+STU1216,19,Male,Engineering,2,22.9,76.6,70.0,36.1,3.41,Yes,No,Yes,0.8,3,69.9,0,Not At Risk
+STU1217,17,Female,Business,7,15.2,57.2,51.7,86.3,3.1,Yes,Yes,No,5.3,8,69.7,1,At Risk
+STU1218,17,Male,Engineering,6,15.4,73.2,92.8,57.4,2.59,Yes,No,No,8.8,5,76.1,0,Not At Risk
+STU1219,20,Female,Engineering,1,9.5,95.5,68.8,55.0,3.2,Yes,No,No,2.6,7,60.9,0,Not At Risk
+STU1220,24,Female,Social Sciences,3,16.1,82.5,70.7,49.3,3.55,Yes,No,No,2.3,8,58.1,0,Not At Risk
+STU1221,18,Male,Computer Science,3,13.3,67.9,89.0,63.9,2.93,Yes,No,No,8.2,4,73.0,0,Not At Risk
+STU1222,20,Male,Computer Science,8,11.0,69.8,79.3,93.5,3.89,Yes,No,No,3.1,5,68.8,0,Not At Risk
+STU1223,22,Male,Engineering,8,10.1,71.3,57.7,98.4,3.34,Yes,Yes,No,3.3,3,79.9,0,Not At Risk
+STU1224,18,Female,Engineering,7,27.4,82.3,60.9,42.1,2.97,No,No,Yes,3.4,5,69.4,1,At Risk
+STU1225,22,Male,Business,5,12.7,94.1,76.9,61.7,3.0,No,No,No,4.3,4,80.6,0,Not At Risk
+STU1226,19,Male,Computer Science,4,6.7,90.6,61.3,51.5,2.93,Yes,No,No,0.0,4,62.7,0,Not At Risk
+STU1227,23,Male,Business,3,10.5,83.5,40.4,81.8,2.12,Yes,No,No,2.9,3,65.2,0,Not At Risk
+STU1228,21,Male,Social Sciences,7,13.7,62.0,69.3,71.3,2.8,Yes,No,No,5.2,8,69.2,0,Not At Risk
+STU1229,21,Male,Computer Science,1,16.7,62.1,49.3,57.5,2.98,Yes,No,No,5.2,13,49.7,1,At Risk
+STU1230,18,Male,Business,3,16.8,84.4,92.6,68.1,2.61,Yes,No,No,8.0,4,82.6,0,Not At Risk
+STU1231,20,Male,Social Sciences,2,17.4,61.9,72.5,59.8,3.05,Yes,No,No,10.0,8,67.9,0,Not At Risk
+STU1232,23,Male,Computer Science,4,10.8,75.3,57.3,91.2,2.86,No,No,No,9.0,4,67.3,0,Not At Risk
+STU1233,17,Male,Engineering,3,15.7,81.6,60.2,75.2,3.3,Yes,Yes,No,7.2,5,77.2,0,Not At Risk
+STU1234,23,Male,Computer Science,2,9.6,64.3,43.5,77.0,3.23,Yes,Yes,No,4.1,7,64.5,0,Not At Risk
+STU1235,20,Male,Social Sciences,4,10.9,65.7,54.6,27.0,2.95,No,No,No,2.6,6,55.9,0,Not At Risk
+STU1236,22,Female,Engineering,7,9.4,76.9,84.2,66.0,2.06,Yes,No,Yes,4.6,6,62.6,0,Not At Risk
+STU1237,22,Male,Social Sciences,5,8.1,84.0,100.0,98.2,3.89,Yes,No,No,6.3,3,93.8,0,Not At Risk
+STU1238,20,Male,Computer Science,7,19.3,90.7,80.2,86.9,2.77,Yes,No,Yes,7.0,4,78.2,0,Not At Risk
+STU1239,19,Male,Business,8,17.4,85.3,68.7,39.3,2.8,No,Yes,Yes,6.4,6,58.3,0,Not At Risk
+STU1240,22,Male,Engineering,8,18.9,78.9,64.0,62.3,2.65,Yes,No,No,4.1,3,71.2,0,Not At Risk
+STU1241,18,Male,Computer Science,3,14.2,69.0,56.6,49.0,2.57,Yes,No,No,6.9,5,54.4,1,At Risk
+STU1242,21,Male,Computer Science,8,17.9,65.1,98.8,92.7,3.75,Yes,No,No,8.3,4,93.2,0,Not At Risk
+STU1243,17,Female,Computer Science,8,5.2,71.9,67.4,70.7,3.65,Yes,No,No,7.1,5,75.2,0,Not At Risk
+STU1244,22,Male,Social Sciences,8,18.3,82.9,99.6,55.5,3.11,Yes,No,Yes,4.4,6,72.6,0,Not At Risk
+STU1245,22,Male,Engineering,3,14.9,82.0,89.5,67.5,2.79,Yes,Yes,Yes,2.0,5,77.5,0,Not At Risk
+STU1246,17,Male,Engineering,2,17.1,52.8,45.6,27.9,3.21,Yes,No,Yes,1.9,11,44.0,1,At Risk
+STU1247,23,Male,Engineering,5,15.9,68.6,60.7,50.7,2.89,Yes,No,Yes,2.5,7,51.9,1,At Risk
+STU1248,20,Male,Business,8,9.1,92.5,60.6,67.5,2.74,Yes,No,No,5.3,5,66.0,0,Not At Risk
+STU1249,23,Female,Business,8,6.5,79.0,68.9,79.7,3.05,Yes,Yes,No,6.1,4,74.2,0,Not At Risk
+STU1250,17,Female,Business,5,10.4,61.0,69.2,37.9,2.59,Yes,No,No,0.3,11,55.2,0,Not At Risk
+STU1251,18,Male,Engineering,2,16.8,100.0,100.0,61.3,3.0,Yes,Yes,Yes,3.0,8,81.8,0,Not At Risk
+STU1252,20,Male,Computer Science,4,17.5,77.7,54.9,82.1,2.97,Yes,No,No,5.2,2,80.4,0,Not At Risk
+STU1253,18,Male,Social Sciences,6,7.2,82.6,73.2,45.2,3.2,Yes,Yes,Yes,1.8,6,61.0,0,Not At Risk
+STU1254,19,Male,Social Sciences,5,9.1,82.8,78.6,70.4,2.49,Yes,No,No,5.8,7,66.7,0,Not At Risk
+STU1255,22,Female,Business,3,10.4,73.6,70.0,68.0,3.26,Yes,No,No,3.6,2,82.9,0,Not At Risk
+STU1256,18,Male,Engineering,3,12.2,69.3,71.5,92.7,2.32,Yes,No,Yes,2.3,3,60.7,0,Not At Risk
+STU1257,22,Male,Computer Science,1,7.2,100.0,55.4,63.5,2.52,Yes,No,No,4.7,5,64.2,0,Not At Risk
+STU1258,17,Female,Social Sciences,3,6.9,90.0,71.5,64.4,2.54,Yes,No,No,5.7,5,62.2,0,Not At Risk
+STU1259,18,Male,Social Sciences,6,9.9,87.9,77.2,79.8,2.23,Yes,No,No,2.0,5,70.8,0,Not At Risk
+STU1260,21,Male,Social Sciences,2,14.4,84.9,74.6,47.1,3.44,No,No,No,3.8,6,67.0,0,Not At Risk
+STU1261,23,Female,Business,8,8.1,66.0,78.0,63.7,2.29,Yes,No,No,5.9,8,64.4,0,Not At Risk
+STU1262,18,Male,Computer Science,1,13.4,93.3,89.8,60.2,2.44,Yes,Yes,Yes,2.2,4,76.4,0,Not At Risk
+STU1263,19,Male,Computer Science,5,19.3,67.9,83.1,64.9,3.58,Yes,Yes,Yes,0.0,2,72.7,0,Not At Risk
+STU1264,24,Male,Computer Science,4,7.5,81.4,71.0,79.7,2.52,Yes,No,No,0.0,4,67.6,0,Not At Risk
+STU1265,24,Female,Computer Science,7,13.0,58.3,53.6,75.3,2.74,Yes,No,No,3.2,9,60.8,1,At Risk
+STU1266,21,Male,Computer Science,8,19.1,53.5,61.6,55.8,2.26,Yes,No,No,0.5,9,59.9,1,At Risk
+STU1267,20,Male,Social Sciences,5,11.9,81.8,66.9,69.1,3.33,Yes,Yes,No,3.5,3,90.5,0,Not At Risk
+STU1268,19,Male,Computer Science,6,11.1,68.3,73.5,89.4,3.34,Yes,No,No,9.5,3,82.5,0,Not At Risk
+STU1269,21,Male,Computer Science,6,19.8,54.1,63.3,54.5,3.28,Yes,No,No,0.4,9,57.2,1,At Risk
+STU1270,21,Female,Social Sciences,5,12.5,84.5,56.9,69.2,3.16,Yes,No,Yes,3.7,6,69.1,0,Not At Risk
+STU1271,19,Male,Engineering,2,19.5,100.0,53.4,64.1,2.89,Yes,No,No,10.9,5,74.4,0,Not At Risk
+STU1272,17,Female,Engineering,4,16.1,94.7,46.9,66.1,2.55,No,No,No,5.7,8,60.6,0,Not At Risk
+STU1273,18,Female,Engineering,2,12.3,74.9,66.7,42.5,2.38,Yes,No,No,3.4,10,58.5,1,At Risk
+STU1274,24,Female,Social Sciences,4,16.4,78.1,49.4,88.2,3.6,Yes,No,No,4.0,8,62.2,0,Not At Risk
+STU1275,20,Male,Engineering,5,15.6,88.7,56.0,55.4,3.29,Yes,No,Yes,5.8,5,72.8,0,Not At Risk
+STU1276,20,Female,Business,2,19.1,91.5,64.5,82.4,2.45,Yes,No,No,9.6,6,72.0,0,Not At Risk
+STU1277,20,Female,Engineering,2,11.3,73.9,51.3,57.7,2.87,Yes,No,No,2.9,6,61.2,0,Not At Risk
+STU1278,23,Male,Business,7,14.2,78.4,75.3,57.6,2.68,No,No,Yes,2.2,7,72.4,0,Not At Risk
+STU1279,17,Female,Business,4,13.7,81.6,80.4,85.2,2.2,Yes,No,Yes,0.4,6,64.9,0,Not At Risk
+STU1280,17,Female,Business,2,17.5,84.6,62.3,81.9,2.95,Yes,No,No,4.8,6,76.9,0,Not At Risk
+STU1281,19,Male,Computer Science,6,8.9,76.4,63.9,70.1,2.61,Yes,Yes,No,0.3,5,72.2,0,Not At Risk
+STU1282,20,Female,Engineering,6,19.1,76.6,77.5,78.4,2.3,No,No,No,3.1,5,71.9,0,Not At Risk
+STU1283,22,Male,Computer Science,7,16.3,94.6,60.0,62.7,1.99,Yes,No,Yes,1.8,3,57.4,0,Not At Risk
+STU1284,20,Female,Computer Science,7,7.4,92.5,59.0,66.9,1.94,Yes,No,No,7.7,6,69.9,0,Not At Risk
+STU1285,20,Female,Computer Science,8,20.0,83.7,86.8,57.1,2.63,Yes,No,Yes,3.0,10,68.1,0,Not At Risk
+STU1286,24,Male,Social Sciences,5,25.2,98.6,82.4,80.6,2.8,Yes,Yes,Yes,5.7,4,83.1,0,Not At Risk
+STU1287,18,Female,Business,3,19.0,73.4,78.4,56.6,2.34,Yes,No,No,0.0,2,67.7,1,At Risk
+STU1288,21,Male,Engineering,7,21.1,97.5,83.0,89.3,3.23,Yes,No,No,4.9,7,84.8,0,Not At Risk
+STU1289,21,Female,Social Sciences,3,14.4,84.5,42.3,62.3,2.81,Yes,No,No,0.9,6,57.2,0,Not At Risk
+STU1290,20,Female,Computer Science,3,5.7,100.0,89.0,67.3,3.18,No,No,No,3.2,5,77.7,0,Not At Risk
+STU1291,23,Male,Engineering,7,4.8,63.7,75.5,78.4,2.74,Yes,No,Yes,11.1,9,60.3,0,Not At Risk
+STU1292,19,Male,Computer Science,8,15.3,69.7,84.2,67.4,2.39,Yes,No,Yes,7.3,4,73.0,0,Not At Risk
+STU1293,24,Male,Computer Science,3,11.0,83.0,75.4,62.5,2.92,Yes,No,No,4.1,8,72.0,0,Not At Risk
+STU1294,19,Male,Engineering,6,9.4,82.8,70.7,66.5,2.12,Yes,Yes,Yes,14.1,4,75.7,0,Not At Risk
+STU1295,21,Male,Social Sciences,8,13.7,100.0,66.1,80.4,3.16,Yes,Yes,Yes,1.8,5,79.2,0,Not At Risk
+STU1296,21,Male,Computer Science,7,17.1,70.0,75.1,57.1,2.31,Yes,No,No,8.0,8,58.4,0,Not At Risk
+STU1297,23,Male,Engineering,1,6.7,88.9,65.6,65.1,3.38,No,Yes,Yes,0.0,6,61.8,0,Not At Risk
+STU1298,20,Male,Computer Science,6,11.8,91.9,82.2,67.2,2.65,Yes,No,No,3.8,5,86.8,0,Not At Risk
+STU1299,19,Female,Business,2,21.5,86.5,47.8,80.0,3.47,Yes,No,No,0.5,3,82.9,0,Not At Risk
+STU1300,17,Female,Engineering,7,8.6,66.5,62.4,65.5,2.2,Yes,Yes,Yes,5.3,4,57.0,0,Not At Risk
+STU1301,19,Female,Engineering,1,18.3,94.9,98.6,94.1,2.46,Yes,No,No,4.7,9,93.1,0,Not At Risk
+STU1302,23,Male,Engineering,8,11.6,92.8,61.2,64.7,3.07,No,No,No,3.6,8,75.5,0,Not At Risk
+STU1303,17,Female,Computer Science,2,16.7,85.2,66.7,63.4,3.53,Yes,No,No,7.8,7,67.0,0,Not At Risk
+STU1304,24,Female,Engineering,4,19.5,80.5,57.6,64.4,3.82,Yes,No,Yes,2.8,3,72.5,0,Not At Risk
+STU1305,21,Male,Engineering,2,17.7,80.7,74.7,47.3,2.87,Yes,Yes,No,5.5,11,65.2,0,Not At Risk
+STU1306,18,Male,Engineering,7,18.5,77.1,59.7,51.4,3.92,No,No,No,7.0,8,62.7,0,Not At Risk
+STU1307,19,Female,Computer Science,4,8.2,85.7,67.4,59.0,2.68,Yes,No,No,0.1,3,67.4,0,Not At Risk
+STU1308,21,Male,Business,6,19.6,78.4,81.9,84.0,3.49,Yes,No,No,2.3,8,85.8,0,Not At Risk
+STU1309,19,Male,Business,1,9.7,67.8,60.2,66.5,2.3,Yes,No,No,4.7,7,51.6,1,At Risk
+STU1310,17,Female,Computer Science,4,15.3,65.4,81.0,59.7,3.09,Yes,Yes,Yes,6.4,1,75.6,0,Not At Risk
+STU1311,22,Male,Computer Science,8,15.3,69.0,81.5,85.4,1.49,Yes,No,No,8.8,4,74.5,0,Not At Risk
+STU1312,22,Male,Business,8,16.4,80.7,84.8,90.3,2.2,No,No,No,3.9,6,76.3,0,Not At Risk
+STU1313,17,Female,Engineering,2,15.7,77.7,72.0,85.8,3.12,Yes,Yes,No,3.6,8,76.9,0,Not At Risk
+STU1314,19,Female,Computer Science,4,9.8,80.6,100.0,54.2,2.09,Yes,No,No,1.9,8,62.1,0,Not At Risk
+STU1315,18,Male,Social Sciences,4,7.3,84.0,84.8,59.6,3.1,Yes,No,No,5.5,8,75.2,0,Not At Risk
+STU1316,22,Female,Business,5,18.4,70.5,74.5,94.2,3.38,Yes,No,No,3.6,8,73.0,0,Not At Risk
+STU1317,22,Female,Engineering,5,14.9,95.6,57.7,70.6,2.56,Yes,Yes,No,3.7,9,71.1,0,Not At Risk
+STU1318,22,Female,Business,1,19.7,74.8,68.6,63.0,2.29,Yes,No,No,4.2,5,67.1,0,Not At Risk
+STU1319,24,Female,Business,7,13.8,72.8,90.0,77.8,2.57,Yes,Yes,Yes,6.2,3,83.0,0,Not At Risk
+STU1320,23,Male,Engineering,2,7.0,83.8,93.9,82.1,2.29,Yes,No,No,2.8,4,72.0,0,Not At Risk
+STU1321,19,Male,Social Sciences,3,18.8,56.0,90.7,58.4,2.79,Yes,No,Yes,2.2,17,57.2,1,At Risk
+STU1322,17,Female,Business,7,12.1,68.5,81.0,70.3,2.91,Yes,Yes,Yes,5.8,5,64.9,0,Not At Risk
+STU1323,21,Male,Business,6,15.7,89.8,52.4,80.9,2.67,Yes,No,No,0.0,4,75.4,0,Not At Risk
+STU1324,24,Female,Engineering,4,10.8,57.2,76.8,49.6,3.82,No,No,No,2.7,8,61.9,1,At Risk
+STU1325,24,Female,Engineering,8,22.2,91.4,52.6,67.2,2.43,Yes,Yes,No,1.0,4,67.2,0,Not At Risk
+STU1326,18,Male,Computer Science,4,9.6,96.1,49.2,50.3,3.66,Yes,No,No,8.1,5,65.3,0,Not At Risk
+STU1327,18,Female,Business,5,12.3,73.6,73.3,52.2,2.25,No,No,Yes,3.2,9,59.3,0,Not At Risk
+STU1328,17,Male,Business,2,14.5,81.5,77.3,58.6,2.89,Yes,No,No,2.8,3,66.5,0,Not At Risk
+STU1329,18,Female,Social Sciences,2,8.5,91.4,82.6,74.2,3.54,Yes,Yes,No,4.4,3,77.8,1,At Risk
+STU1330,21,Male,Business,4,15.7,72.4,77.0,62.2,3.51,No,Yes,No,2.7,6,78.5,0,Not At Risk
+STU1331,21,Female,Business,5,22.1,88.4,77.4,57.3,2.61,No,Yes,Yes,3.3,11,66.6,0,Not At Risk
+STU1332,19,Female,Social Sciences,7,11.5,69.9,56.2,67.8,3.17,Yes,No,No,4.8,7,71.3,0,Not At Risk
+STU1333,19,Male,Business,4,16.0,72.3,68.5,49.8,3.09,Yes,No,No,3.2,6,64.4,0,Not At Risk
+STU1334,23,Female,Computer Science,8,2.0,68.4,48.9,73.4,2.54,No,No,No,3.2,10,53.4,1,At Risk
+STU1335,20,Female,Computer Science,5,13.8,82.1,42.0,84.0,3.21,Yes,Yes,No,1.5,8,72.1,0,Not At Risk
+STU1336,23,Female,Computer Science,1,12.4,91.9,80.4,65.8,3.93,Yes,Yes,Yes,1.0,5,90.7,0,Not At Risk
+STU1337,24,Female,Computer Science,6,9.9,75.8,59.5,64.0,3.12,Yes,Yes,No,4.7,6,75.6,0,Not At Risk
+STU1338,19,Female,Business,5,19.4,62.7,82.2,72.6,3.18,Yes,No,Yes,5.4,12,76.1,0,Not At Risk
+STU1339,18,Male,Engineering,4,12.4,65.0,85.5,36.6,3.24,Yes,Yes,No,0.2,9,60.7,0,Not At Risk
+STU1340,24,Male,Engineering,4,13.1,82.7,61.3,75.1,2.0,Yes,Yes,No,6.8,4,62.3,0,Not At Risk
+STU1341,22,Male,Computer Science,3,12.1,100.0,78.3,100.0,3.12,Yes,No,Yes,6.8,3,91.4,0,Not At Risk
+STU1342,19,Female,Engineering,5,4.4,82.7,60.7,65.2,2.26,Yes,No,No,7.4,4,70.4,0,Not At Risk
+STU1343,21,Female,Computer Science,5,8.3,73.4,44.2,65.2,2.51,Yes,Yes,Yes,5.4,6,65.6,0,Not At Risk
+STU1344,21,Male,Social Sciences,4,18.8,87.2,71.7,78.2,4.0,Yes,No,Yes,6.4,6,83.6,0,Not At Risk
+STU1345,24,Male,Computer Science,3,3.5,75.1,63.4,91.7,2.7,Yes,Yes,No,11.1,5,75.5,0,Not At Risk
+STU1346,19,Female,Engineering,4,10.2,73.5,63.8,81.6,2.42,Yes,Yes,No,3.6,1,76.2,0,Not At Risk
+STU1347,24,Male,Business,4,12.0,66.5,97.7,34.7,3.52,Yes,Yes,No,1.4,6,71.5,0,Not At Risk
+STU1348,24,Female,Engineering,4,22.7,94.9,48.6,75.5,2.3,Yes,No,No,0.0,4,73.1,0,Not At Risk
+STU1349,18,Male,Business,3,17.8,47.5,75.4,100.0,2.59,Yes,No,Yes,9.8,7,71.1,1,At Risk
+STU1350,18,Female,Engineering,5,11.2,87.6,56.1,76.3,3.57,Yes,No,No,9.8,6,70.6,0,Not At Risk
+STU1351,21,Male,Computer Science,2,20.5,72.4,82.7,49.7,2.87,Yes,No,No,1.7,13,60.8,0,Not At Risk
+STU1352,17,Male,Social Sciences,5,10.3,73.1,74.2,71.2,1.94,Yes,No,Yes,2.3,6,58.5,0,Not At Risk
+STU1353,19,Female,Business,1,19.0,98.3,75.3,47.8,3.17,Yes,No,No,3.5,3,67.7,0,Not At Risk
+STU1354,20,Female,Engineering,4,7.2,69.4,56.8,85.5,2.62,Yes,No,No,8.2,7,65.8,0,Not At Risk
+STU1355,24,Male,Social Sciences,7,19.4,69.8,59.3,52.7,3.74,Yes,No,Yes,0.6,6,69.0,0,Not At Risk
+STU1356,24,Male,Social Sciences,7,12.0,76.4,83.0,68.1,2.5,Yes,No,No,0.0,6,74.0,0,Not At Risk
+STU1357,18,Female,Computer Science,6,8.9,83.0,94.8,54.1,3.46,Yes,No,No,11.0,4,84.1,0,Not At Risk
+STU1358,24,Female,Computer Science,6,12.9,72.7,76.7,58.8,3.88,Yes,No,Yes,5.4,9,79.2,0,Not At Risk
+STU1359,17,Male,Computer Science,1,15.4,59.1,57.4,89.3,2.36,Yes,Yes,No,5.9,7,74.6,1,At Risk
+STU1360,22,Male,Computer Science,3,11.5,67.6,74.7,68.6,2.74,No,No,Yes,3.9,2,62.9,0,Not At Risk
+STU1361,23,Female,Engineering,6,16.8,93.4,100.0,58.6,3.08,Yes,No,Yes,5.9,2,74.1,0,Not At Risk
+STU1362,24,Female,Social Sciences,7,11.1,78.9,71.4,49.8,2.35,Yes,No,No,0.0,6,67.1,0,Not At Risk
+STU1363,18,Female,Social Sciences,5,17.1,83.4,90.5,38.9,3.01,Yes,No,No,2.0,2,81.6,0,Not At Risk
+STU1364,24,Female,Business,7,16.2,74.9,59.6,48.2,2.72,Yes,No,Yes,4.8,3,72.3,0,Not At Risk
+STU1365,17,Male,Engineering,3,13.7,70.1,69.4,68.7,2.71,No,No,No,0.0,5,68.8,0,Not At Risk
+STU1366,21,Female,Social Sciences,2,11.8,98.1,78.7,81.7,2.88,Yes,No,No,3.6,4,69.3,1,At Risk
+STU1367,20,Female,Social Sciences,1,14.8,75.7,75.6,58.6,2.89,No,No,No,3.4,11,65.6,1,At Risk
+STU1368,19,Female,Computer Science,5,16.8,72.7,59.3,90.6,2.95,Yes,Yes,No,3.6,5,79.3,0,Not At Risk
+STU1369,17,Male,Business,6,24.3,91.2,58.7,56.2,2.5,Yes,Yes,No,2.8,4,79.1,0,Not At Risk
+STU1370,23,Male,Social Sciences,3,18.7,69.3,83.8,63.4,2.53,Yes,Yes,No,1.5,4,80.8,0,Not At Risk
+STU1371,19,Female,Computer Science,7,18.9,70.9,86.7,50.8,2.78,No,Yes,No,0.0,7,73.1,0,Not At Risk
+STU1372,22,Male,Business,6,29.4,78.1,91.2,81.9,2.82,Yes,No,No,4.9,3,82.4,0,Not At Risk
+STU1373,20,Female,Social Sciences,3,16.6,78.0,95.3,98.5,2.6,Yes,Yes,No,3.6,9,76.0,0,Not At Risk
+STU1374,19,Male,Social Sciences,2,16.4,81.1,71.9,40.6,3.04,Yes,No,No,0.4,2,72.5,0,Not At Risk
+STU1375,24,Female,Social Sciences,6,17.5,100.0,65.6,61.8,1.8,Yes,No,Yes,4.7,8,59.9,0,Not At Risk
+STU1376,17,Female,Engineering,6,9.0,82.0,88.9,86.0,2.43,Yes,No,Yes,3.6,3,84.7,0,Not At Risk
+STU1377,22,Male,Computer Science,2,11.8,49.5,80.0,45.3,2.69,Yes,Yes,No,3.1,8,48.9,1,At Risk
+STU1378,22,Male,Business,3,11.5,81.9,56.2,75.5,2.35,Yes,No,No,0.0,5,69.6,0,Not At Risk
+STU1379,20,Female,Business,4,17.2,78.5,55.5,85.3,3.79,Yes,No,No,6.5,4,82.1,0,Not At Risk
+STU1380,19,Female,Engineering,5,13.1,78.5,76.9,68.2,2.86,Yes,No,No,0.8,8,69.0,0,Not At Risk
+STU1381,17,Male,Business,2,14.7,81.0,67.5,75.3,2.95,Yes,Yes,Yes,4.7,4,69.6,0,Not At Risk
+STU1382,24,Female,Engineering,8,19.4,77.7,69.6,93.4,2.57,No,No,Yes,2.1,6,61.6,0,Not At Risk
+STU1383,24,Female,Business,4,18.3,77.4,85.0,96.2,2.84,Yes,Yes,No,3.3,4,81.6,0,Not At Risk
+STU1384,18,Male,Engineering,4,13.2,85.4,80.6,66.1,2.15,Yes,No,No,8.0,1,69.3,0,Not At Risk
+STU1385,17,Male,Business,1,10.7,71.5,88.6,59.0,2.75,Yes,No,No,6.1,4,76.5,0,Not At Risk
+STU1386,17,Male,Business,8,19.7,66.6,43.0,53.2,2.31,Yes,Yes,Yes,7.9,7,51.9,1,At Risk
+STU1387,17,Male,Computer Science,2,17.9,100.0,73.5,81.7,2.69,No,No,No,5.5,7,79.3,0,Not At Risk
+STU1388,23,Male,Computer Science,8,6.0,69.4,79.7,46.4,1.37,Yes,Yes,No,5.7,6,46.4,1,At Risk
+STU1389,24,Male,Social Sciences,4,12.4,79.2,48.6,63.2,2.2,Yes,No,Yes,0.0,6,61.4,0,Not At Risk
+STU1390,18,Female,Business,7,14.8,60.1,60.8,68.5,3.7,No,No,Yes,3.5,10,51.6,1,At Risk
+STU1391,22,Male,Computer Science,2,17.9,79.4,58.2,59.5,3.33,Yes,No,No,3.8,3,84.5,0,Not At Risk
+STU1392,18,Female,Engineering,2,18.6,66.8,70.3,71.2,3.62,Yes,Yes,No,8.2,7,75.3,0,Not At Risk
+STU1393,19,Male,Business,7,15.4,72.7,92.8,100.0,3.65,Yes,Yes,No,3.0,3,75.4,0,Not At Risk
+STU1394,21,Male,Computer Science,7,16.9,90.5,98.3,65.2,3.24,Yes,No,No,5.3,10,75.1,0,Not At Risk
+STU1395,22,Female,Computer Science,5,14.3,83.7,58.6,60.5,2.59,Yes,No,No,5.2,3,62.6,0,Not At Risk
+STU1396,23,Female,Computer Science,1,10.6,84.8,77.4,82.2,2.25,No,Yes,Yes,8.0,1,69.8,0,Not At Risk
+STU1397,17,Male,Engineering,8,12.7,56.7,77.8,70.6,3.52,Yes,No,No,4.1,11,66.2,1,At Risk
+STU1398,18,Male,Computer Science,4,14.1,100.0,75.4,88.6,2.89,Yes,Yes,No,7.0,8,77.8,0,Not At Risk
+STU1399,19,Male,Computer Science,8,13.8,63.7,75.6,69.5,4.0,Yes,No,No,0.0,8,70.1,0,Not At Risk
+STU1400,19,Female,Computer Science,7,4.6,96.3,74.3,63.3,2.64,Yes,No,No,0.0,4,64.0,0,Not At Risk
+STU1401,24,Male,Engineering,7,12.0,90.3,93.6,40.2,3.99,Yes,Yes,No,0.0,4,85.6,0,Not At Risk
+STU1402,23,Male,Computer Science,6,14.3,84.9,85.4,42.7,2.76,Yes,No,Yes,6.9,10,71.4,0,Not At Risk
+STU1403,19,Male,Social Sciences,6,12.6,67.7,55.2,39.5,3.62,Yes,Yes,No,6.5,3,64.4,0,Not At Risk
+STU1404,24,Male,Computer Science,5,12.8,79.8,81.1,72.7,3.83,Yes,No,No,7.2,12,75.9,0,Not At Risk
+STU1405,20,Female,Engineering,1,16.4,72.3,82.5,46.6,2.26,Yes,No,Yes,2.5,4,57.3,0,Not At Risk
+STU1406,21,Female,Business,4,8.6,78.3,74.4,85.8,2.57,Yes,No,No,2.8,5,72.9,0,Not At Risk
+STU1407,20,Male,Business,6,5.9,75.0,85.8,67.5,2.25,No,No,No,4.1,8,63.7,0,Not At Risk
+STU1408,18,Male,Computer Science,7,12.3,53.5,72.6,63.3,2.14,Yes,No,Yes,8.8,9,54.5,1,At Risk
+STU1409,24,Male,Social Sciences,5,17.8,91.5,72.8,54.3,3.24,Yes,No,No,9.6,9,74.5,0,Not At Risk
+STU1410,17,Male,Social Sciences,6,22.4,77.0,71.7,76.3,2.74,Yes,No,No,6.9,7,75.7,0,Not At Risk
+STU1411,18,Female,Computer Science,1,17.9,72.2,41.7,54.9,2.88,No,Yes,No,5.5,2,57.2,0,Not At Risk
+STU1412,18,Female,Computer Science,4,6.7,71.3,68.9,52.2,3.17,Yes,No,No,8.5,7,70.2,0,Not At Risk
+STU1413,19,Female,Social Sciences,5,12.8,82.3,60.6,84.8,1.77,Yes,Yes,No,3.7,2,68.7,0,Not At Risk
+STU1414,18,Female,Business,8,15.3,67.3,53.4,72.3,3.6,Yes,No,No,3.3,4,81.7,1,At Risk
+STU1415,17,Female,Computer Science,3,14.9,50.9,90.1,63.5,2.65,Yes,No,No,4.1,9,66.8,1,At Risk
+STU1416,22,Female,Computer Science,2,16.7,82.9,77.1,76.6,3.16,Yes,No,Yes,1.6,12,84.0,0,Not At Risk
+STU1417,24,Male,Engineering,3,9.4,84.2,69.6,67.1,3.21,No,No,No,4.0,6,76.6,0,Not At Risk
+STU1418,17,Male,Engineering,2,14.3,75.6,62.1,72.7,3.65,Yes,No,Yes,1.1,4,76.3,0,Not At Risk
+STU1419,19,Male,Engineering,5,16.1,64.2,74.1,54.7,2.79,Yes,Yes,No,7.6,5,63.1,0,Not At Risk
+STU1420,21,Female,Social Sciences,6,18.1,79.1,83.9,98.1,1.62,Yes,No,No,6.1,5,70.9,0,Not At Risk
+STU1421,24,Male,Business,7,10.0,60.4,58.4,58.3,2.88,Yes,No,No,8.8,5,63.9,0,Not At Risk
+STU1422,22,Female,Computer Science,8,12.3,65.7,69.9,90.3,2.97,Yes,No,No,0.0,3,76.1,0,Not At Risk
+STU1423,23,Female,Business,1,2.0,69.0,82.2,64.2,2.25,Yes,Yes,No,10.2,6,59.7,0,Not At Risk
+STU1424,21,Female,Business,2,10.9,88.1,42.9,79.1,2.94,Yes,No,No,0.0,5,74.2,0,Not At Risk
+STU1425,20,Male,Computer Science,3,11.4,73.6,69.2,78.0,2.64,Yes,Yes,Yes,0.9,8,68.4,0,Not At Risk
+STU1426,18,Male,Computer Science,2,8.9,72.6,64.0,84.2,2.07,Yes,No,No,2.6,9,67.3,0,Not At Risk
+STU1427,23,Male,Business,7,14.8,100.0,68.1,54.4,3.24,Yes,Yes,Yes,8.4,6,69.0,0,Not At Risk
+STU1428,23,Female,Engineering,2,13.7,82.2,63.0,83.1,2.52,Yes,Yes,No,5.2,5,78.9,0,Not At Risk
+STU1429,17,Female,Computer Science,1,2.7,82.1,71.9,94.7,2.61,Yes,Yes,No,3.8,3,78.9,0,Not At Risk
+STU1430,22,Female,Business,7,15.1,73.6,96.9,63.1,2.58,Yes,No,No,2.1,6,79.3,0,Not At Risk
+STU1431,17,Male,Engineering,8,9.4,70.8,65.5,67.5,3.57,Yes,No,Yes,0.4,3,77.4,0,Not At Risk
+STU1432,22,Male,Engineering,2,16.4,51.8,74.1,59.1,2.83,Yes,No,No,7.9,11,59.8,1,At Risk
+STU1433,23,Male,Engineering,3,7.6,89.6,97.9,61.8,2.9,No,No,No,6.9,10,69.4,0,Not At Risk
+STU1434,18,Female,Social Sciences,5,14.2,83.4,62.3,92.7,2.59,Yes,No,No,8.6,4,85.7,0,Not At Risk
+STU1435,20,Female,Engineering,5,12.6,75.9,95.4,51.9,3.12,Yes,Yes,No,5.7,4,73.8,0,Not At Risk
+STU1436,17,Male,Computer Science,8,15.5,76.4,70.1,52.9,3.63,Yes,Yes,No,0.0,1,81.1,0,Not At Risk
+STU1437,21,Female,Business,4,14.6,86.8,94.9,91.2,3.23,Yes,No,Yes,0.8,3,85.1,0,Not At Risk
+STU1438,24,Male,Engineering,1,12.7,59.3,80.5,76.4,3.25,Yes,No,No,5.9,10,59.2,1,At Risk
+STU1439,17,Female,Computer Science,4,6.3,70.9,74.3,98.8,3.2,Yes,No,No,3.4,4,71.2,0,Not At Risk
+STU1440,20,Male,Computer Science,5,6.6,64.4,69.1,60.2,2.05,No,Yes,Yes,2.8,12,53.5,1,At Risk
+STU1441,24,Male,Computer Science,5,11.1,99.3,61.3,68.9,2.34,Yes,No,No,1.2,7,72.0,0,Not At Risk
+STU1442,19,Female,Business,5,14.0,88.5,71.1,57.1,2.73,Yes,Yes,No,7.3,3,75.1,0,Not At Risk
+STU1443,18,Male,Business,8,11.0,51.6,82.6,69.1,2.43,Yes,No,No,5.9,9,68.0,1,At Risk
+STU1444,20,Male,Computer Science,7,17.1,59.8,69.8,40.4,2.23,Yes,Yes,No,6.0,9,57.8,0,Not At Risk
+STU1445,21,Male,Social Sciences,3,12.6,76.4,65.6,77.3,1.76,No,No,No,2.6,7,56.2,0,Not At Risk
+STU1446,22,Male,Social Sciences,3,9.2,72.3,66.5,71.9,2.07,Yes,No,No,5.0,4,67.0,0,Not At Risk
+STU1447,19,Female,Computer Science,6,12.6,62.1,83.9,66.1,2.7,Yes,No,No,0.5,9,66.6,0,Not At Risk
+STU1448,24,Female,Social Sciences,4,15.1,100.0,87.2,61.1,2.81,No,Yes,No,4.1,1,76.8,0,Not At Risk
+STU1449,21,Female,Computer Science,4,15.6,81.8,60.7,53.6,2.39,Yes,No,No,0.0,9,63.5,0,Not At Risk
+STU1450,19,Male,Social Sciences,2,23.4,83.7,60.6,77.9,2.9,Yes,Yes,No,0.0,2,80.3,1,At Risk
+STU1451,24,Female,Social Sciences,3,10.7,69.7,75.3,49.4,2.6,Yes,No,No,3.5,3,60.7,0,Not At Risk
+STU1452,24,Male,Computer Science,6,13.6,86.7,91.4,74.7,3.48,Yes,Yes,Yes,11.6,8,80.5,0,Not At Risk
+STU1453,20,Male,Engineering,7,16.1,73.4,86.0,98.1,2.76,Yes,Yes,Yes,0.0,3,91.0,0,Not At Risk
+STU1454,17,Male,Social Sciences,7,13.9,74.6,52.5,89.3,3.25,Yes,No,No,0.8,4,82.8,0,Not At Risk
+STU1455,21,Female,Social Sciences,3,11.5,85.3,66.3,44.4,2.97,Yes,Yes,No,5.2,4,69.0,0,Not At Risk
+STU1456,21,Female,Social Sciences,2,6.3,58.5,57.0,58.9,2.04,Yes,Yes,No,9.8,9,52.2,1,At Risk
+STU1457,18,Female,Business,2,11.4,97.2,66.3,73.3,2.8,Yes,No,No,5.1,6,65.4,0,Not At Risk
+STU1458,22,Male,Computer Science,4,8.6,80.2,92.5,65.9,2.13,Yes,No,No,6.6,3,80.3,0,Not At Risk
+STU1459,23,Male,Social Sciences,5,5.4,93.4,50.1,46.0,2.79,Yes,No,No,3.5,5,66.9,0,Not At Risk
+STU1460,17,Female,Engineering,8,10.0,65.1,47.3,72.8,2.42,Yes,No,No,3.0,3,65.7,1,At Risk
+STU1461,22,Female,Engineering,8,8.8,66.9,58.4,66.8,3.07,Yes,No,No,4.7,3,53.6,1,At Risk
+STU1462,18,Male,Business,1,16.9,64.1,74.0,95.7,2.07,Yes,No,Yes,2.5,13,65.0,0,Not At Risk
+STU1463,22,Male,Engineering,6,17.0,81.0,78.7,63.2,2.86,Yes,Yes,No,6.7,8,72.0,0,Not At Risk
+STU1464,20,Male,Computer Science,3,9.5,78.8,76.1,84.5,3.18,Yes,No,Yes,0.0,4,80.7,0,Not At Risk
+STU1465,17,Female,Engineering,2,12.7,72.4,86.5,48.0,3.38,Yes,Yes,No,7.2,3,71.7,0,Not At Risk
+STU1466,24,Male,Computer Science,5,4.7,65.8,45.3,51.6,2.41,No,No,No,4.6,9,46.2,1,At Risk
+STU1467,18,Female,Engineering,1,11.5,62.8,86.6,77.8,2.86,Yes,No,No,3.9,13,70.6,0,Not At Risk
+STU1468,21,Male,Social Sciences,3,16.0,77.4,65.6,83.3,2.96,Yes,No,No,0.0,10,67.1,0,Not At Risk
+STU1469,18,Female,Business,5,18.1,72.4,80.2,52.6,3.75,Yes,No,No,1.6,5,72.3,0,Not At Risk
+STU1470,24,Male,Business,3,10.4,69.8,51.5,67.4,1.99,Yes,Yes,Yes,8.1,4,60.2,0,Not At Risk
+STU1471,22,Male,Computer Science,5,19.3,96.6,70.1,46.3,2.32,Yes,No,No,3.9,6,74.9,0,Not At Risk
+STU1472,23,Male,Social Sciences,4,6.4,77.0,73.3,64.3,4.0,Yes,No,Yes,5.3,6,78.4,0,Not At Risk
+STU1473,20,Male,Engineering,7,7.8,93.2,86.2,79.6,2.69,Yes,No,No,1.9,5,83.5,0,Not At Risk
+STU1474,20,Female,Business,2,17.5,71.6,47.8,60.5,1.75,Yes,No,No,4.4,9,54.2,1,At Risk
+STU1475,22,Male,Computer Science,1,22.4,80.9,70.4,63.3,2.51,Yes,Yes,No,0.4,2,83.3,0,Not At Risk
+STU1476,23,Female,Computer Science,5,16.5,77.3,54.8,50.1,1.24,Yes,No,No,4.8,4,43.9,1,At Risk
+STU1477,23,Male,Business,3,13.8,57.6,77.1,57.3,2.99,No,No,No,5.6,9,72.8,1,At Risk
+STU1478,17,Male,Social Sciences,6,3.0,95.1,80.9,93.4,3.32,Yes,Yes,No,5.5,12,91.2,0,Not At Risk
+STU1479,22,Female,Engineering,1,3.9,76.4,88.0,68.1,2.32,Yes,No,Yes,1.8,7,67.6,0,Not At Risk
+STU1480,17,Male,Computer Science,5,14.6,87.0,62.5,52.0,2.58,Yes,No,No,3.5,2,72.6,0,Not At Risk
+STU1481,19,Female,Social Sciences,8,12.2,69.0,83.0,62.3,3.39,Yes,No,No,6.1,8,70.9,0,Not At Risk
+STU1482,23,Female,Business,1,8.5,76.0,89.1,43.0,1.83,Yes,No,No,3.9,6,57.7,1,At Risk
+STU1483,19,Female,Social Sciences,3,14.3,67.6,47.0,51.8,2.08,Yes,No,No,3.6,5,51.1,0,Not At Risk
+STU1484,23,Male,Computer Science,7,14.6,92.8,78.6,87.4,2.72,Yes,No,Yes,10.2,9,76.1,0,Not At Risk
+STU1485,20,Male,Engineering,5,18.7,81.7,83.4,64.9,2.41,Yes,No,Yes,1.6,3,76.3,0,Not At Risk
+STU1486,18,Female,Social Sciences,2,14.7,82.4,66.4,95.4,2.68,Yes,No,No,7.7,6,78.7,0,Not At Risk
+STU1487,19,Male,Computer Science,2,20.1,94.3,53.0,65.6,2.12,Yes,Yes,Yes,1.0,2,81.5,0,Not At Risk
+STU1488,21,Male,Engineering,7,14.0,91.9,83.2,66.5,2.97,Yes,Yes,No,6.5,5,79.3,0,Not At Risk
+STU1489,23,Male,Social Sciences,7,13.4,87.2,53.2,76.6,2.76,Yes,No,No,6.6,5,62.0,0,Not At Risk
+STU1490,21,Female,Computer Science,3,19.3,60.9,67.5,26.9,3.17,Yes,Yes,No,3.0,12,66.3,0,Not At Risk
+STU1491,24,Female,Computer Science,4,9.1,69.7,69.4,70.1,2.97,Yes,Yes,No,0.8,3,64.4,0,Not At Risk
+STU1492,23,Female,Engineering,7,28.1,66.0,80.0,66.3,2.97,Yes,No,No,0.0,4,73.5,0,Not At Risk
+STU1493,23,Female,Business,2,15.9,86.7,61.2,89.3,2.01,Yes,No,No,2.7,6,72.1,0,Not At Risk
+STU1494,21,Male,Computer Science,2,15.9,80.0,60.4,81.5,3.14,No,Yes,No,6.1,7,75.5,0,Not At Risk
+STU1495,19,Female,Business,7,16.6,61.3,71.4,50.0,2.66,Yes,No,No,1.3,8,52.4,1,At Risk
+STU1496,20,Male,Engineering,2,23.4,75.7,84.1,85.6,2.75,Yes,No,No,4.8,4,77.0,0,Not At Risk
+STU1497,17,Female,Computer Science,7,18.0,60.1,100.0,63.1,3.46,Yes,No,No,0.1,10,65.8,0,Not At Risk
+STU1498,19,Male,Business,4,6.0,77.4,48.9,53.4,2.43,Yes,No,No,3.8,4,61.1,0,Not At Risk
+STU1499,24,Female,Social Sciences,8,21.0,58.1,74.4,70.0,3.63,Yes,No,No,1.1,10,78.9,1,At Risk
+STU1500,20,Male,Business,1,12.3,84.3,54.8,64.0,3.69,Yes,Yes,Yes,4.3,3,67.9,0,Not At Risk
+STU1501,17,Male,Social Sciences,8,14.5,82.5,84.3,90.1,3.29,No,No,Yes,3.0,6,85.5,0,Not At Risk
+STU1502,22,Male,Business,2,7.6,100.0,56.9,72.1,2.28,Yes,No,No,0.9,3,74.5,0,Not At Risk
+STU1503,24,Male,Social Sciences,1,16.6,88.2,60.6,70.1,1.58,Yes,No,No,2.5,9,57.4,0,Not At Risk
+STU1504,23,Male,Engineering,6,10.7,72.9,61.8,80.5,3.48,Yes,No,Yes,1.7,6,61.1,0,Not At Risk
+STU1505,19,Female,Computer Science,5,14.5,87.8,68.9,83.4,2.91,Yes,No,No,0.6,6,70.4,0,Not At Risk
+STU1506,20,Male,Social Sciences,7,12.6,61.2,74.5,78.8,2.42,Yes,Yes,No,7.7,9,62.7,0,Not At Risk
+STU1507,21,Female,Business,1,23.6,66.5,76.8,88.3,3.53,Yes,No,No,3.4,5,91.7,0,Not At Risk
+STU1508,18,Male,Computer Science,1,23.9,82.0,69.9,76.1,2.35,Yes,No,No,0.0,8,71.2,0,Not At Risk
+STU1509,19,Female,Computer Science,5,14.2,52.1,51.4,69.5,2.6,Yes,Yes,Yes,2.6,11,50.4,1,At Risk
+STU1510,18,Male,Engineering,8,14.3,77.6,80.2,85.6,3.15,Yes,No,No,7.2,3,81.8,0,Not At Risk
+STU1511,24,Female,Computer Science,4,12.1,65.8,69.3,65.6,2.2,Yes,No,No,2.2,4,55.8,0,Not At Risk
+STU1512,22,Female,Computer Science,7,19.5,79.2,86.3,67.5,2.79,Yes,No,No,9.0,2,81.3,0,Not At Risk
+STU1513,23,Male,Computer Science,8,12.4,65.1,60.1,92.8,3.48,Yes,Yes,No,1.9,2,73.6,0,Not At Risk
+STU1514,23,Female,Business,7,11.9,83.1,47.6,91.3,2.97,Yes,No,No,6.0,3,69.6,0,Not At Risk
+STU1515,24,Male,Business,5,18.9,78.2,69.5,66.9,3.57,No,Yes,No,7.6,8,76.5,0,Not At Risk
+STU1516,17,Male,Business,6,11.3,94.8,88.1,60.2,3.51,Yes,No,No,5.9,5,90.0,0,Not At Risk
+STU1517,24,Female,Computer Science,5,13.8,78.1,72.3,88.9,2.85,Yes,Yes,No,0.4,7,89.1,0,Not At Risk
+STU1518,17,Female,Computer Science,6,6.1,68.8,67.2,79.0,1.49,Yes,No,No,1.7,2,55.3,0,Not At Risk
+STU1519,20,Male,Engineering,5,17.5,75.0,57.8,71.7,2.21,Yes,No,No,8.0,4,62.8,0,Not At Risk
+STU1520,21,Male,Business,5,23.7,61.9,94.6,62.2,3.29,Yes,No,No,2.1,11,76.4,0,Not At Risk
+STU1521,19,Female,Engineering,4,17.6,82.9,55.6,72.0,1.95,Yes,No,No,7.4,6,71.1,0,Not At Risk
+STU1522,18,Female,Computer Science,6,21.3,85.1,59.8,66.7,2.66,Yes,Yes,Yes,3.2,4,60.1,0,Not At Risk
+STU1523,18,Female,Computer Science,7,9.8,100.0,78.0,57.0,3.05,Yes,No,Yes,4.9,3,75.5,0,Not At Risk
+STU1524,23,Female,Computer Science,8,15.2,70.5,44.0,68.9,3.7,Yes,No,No,0.3,5,67.1,0,Not At Risk
+STU1525,19,Female,Business,5,9.3,74.8,87.8,71.0,2.52,No,No,No,2.7,2,60.0,0,Not At Risk
+STU1526,19,Male,Business,1,12.9,71.1,78.7,61.4,2.48,No,Yes,No,1.9,7,57.1,0,Not At Risk
+STU1527,24,Female,Social Sciences,5,17.9,80.5,82.6,80.6,2.82,Yes,No,Yes,5.2,6,73.6,0,Not At Risk
+STU1528,18,Male,Business,3,14.5,82.6,77.8,86.3,3.05,Yes,No,No,4.8,5,80.0,0,Not At Risk
+STU1529,24,Female,Business,1,6.9,77.4,67.7,81.5,2.76,Yes,No,Yes,5.9,10,71.7,0,Not At Risk
+STU1530,24,Male,Engineering,1,7.4,91.0,55.1,62.9,3.46,Yes,No,No,3.0,3,74.3,0,Not At Risk
+STU1531,21,Female,Computer Science,5,7.1,70.6,68.0,78.3,2.39,Yes,Yes,No,1.7,5,72.7,0,Not At Risk
+STU1532,18,Female,Business,8,16.5,89.8,56.3,68.2,2.92,Yes,No,No,5.0,6,71.3,0,Not At Risk
+STU1533,18,Male,Business,5,24.3,84.5,76.8,48.5,3.11,Yes,No,No,1.4,4,71.1,0,Not At Risk
+STU1534,19,Female,Business,4,20.8,77.9,81.3,77.1,2.62,Yes,No,Yes,7.7,7,73.1,0,Not At Risk
+STU1535,21,Male,Computer Science,1,4.5,74.2,90.7,69.2,3.34,Yes,No,No,4.2,4,79.4,0,Not At Risk
+STU1536,18,Female,Engineering,6,21.1,100.0,75.2,100.0,2.94,No,Yes,No,3.5,5,93.2,0,Not At Risk
+STU1537,20,Male,Social Sciences,1,18.7,68.2,82.9,88.9,3.31,No,No,No,5.9,6,77.9,0,Not At Risk
+STU1538,17,Male,Computer Science,7,6.3,81.6,65.8,77.7,2.96,Yes,Yes,Yes,4.3,3,67.7,0,Not At Risk
+STU1539,21,Male,Engineering,7,12.5,69.0,63.3,70.7,3.07,Yes,No,No,0.0,3,72.4,0,Not At Risk
+STU1540,17,Male,Engineering,8,19.5,99.4,76.6,69.5,2.48,Yes,No,No,1.3,4,80.4,0,Not At Risk
+STU1541,22,Male,Computer Science,3,16.8,88.6,64.6,51.9,2.48,Yes,No,Yes,7.7,8,70.5,1,At Risk
+STU1542,17,Female,Engineering,2,7.5,69.9,73.8,40.9,3.56,Yes,No,Yes,4.8,8,58.6,0,Not At Risk
+STU1543,18,Female,Engineering,3,17.1,84.2,55.1,53.9,3.22,No,No,Yes,0.0,6,61.5,0,Not At Risk
+STU1544,18,Female,Social Sciences,7,3.3,81.1,57.7,66.3,2.26,Yes,Yes,Yes,5.6,6,64.7,0,Not At Risk
+STU1545,23,Male,Social Sciences,2,12.9,71.8,78.9,35.4,2.95,Yes,No,No,2.8,4,62.1,0,Not At Risk
+STU1546,17,Male,Computer Science,8,19.7,87.1,82.4,58.8,1.47,No,No,No,1.9,2,63.7,1,At Risk
+STU1547,20,Male,Business,2,14.1,82.7,56.2,63.3,2.52,Yes,No,No,1.1,5,72.7,0,Not At Risk
+STU1548,21,Female,Business,1,11.5,80.6,79.4,63.8,3.41,Yes,No,No,7.5,4,68.2,0,Not At Risk
+STU1549,21,Female,Computer Science,2,18.4,77.5,62.5,57.1,2.78,Yes,Yes,No,0.0,3,82.2,0,Not At Risk
+STU1550,22,Male,Business,7,18.9,83.2,70.2,61.9,2.92,Yes,No,No,2.0,3,70.7,0,Not At Risk
+STU1551,23,Female,Social Sciences,5,20.6,80.8,89.8,92.9,1.1,Yes,No,No,4.9,5,77.7,0,Not At Risk
+STU1552,20,Male,Computer Science,3,18.4,78.7,81.3,76.9,2.62,Yes,No,Yes,9.2,5,74.2,0,Not At Risk
+STU1553,23,Male,Business,6,19.4,70.3,81.1,58.6,3.05,Yes,No,No,6.2,8,72.0,0,Not At Risk
+STU1554,19,Male,Social Sciences,6,17.7,98.3,96.7,66.0,3.12,Yes,No,No,2.0,4,83.0,0,Not At Risk
+STU1555,24,Male,Business,5,15.3,65.4,60.1,66.6,3.41,Yes,Yes,No,9.1,4,76.9,0,Not At Risk
+STU1556,21,Female,Business,5,14.4,83.1,56.2,55.5,2.73,Yes,No,No,0.4,4,64.0,0,Not At Risk
+STU1557,22,Female,Social Sciences,1,12.8,74.2,59.9,55.5,2.75,Yes,Yes,No,5.3,8,59.7,0,Not At Risk
+STU1558,24,Male,Business,3,7.9,99.1,66.4,82.2,2.08,Yes,Yes,No,6.0,4,83.4,0,Not At Risk
+STU1559,23,Female,Computer Science,5,9.2,67.2,37.0,60.7,2.73,Yes,Yes,No,1.9,7,57.1,0,Not At Risk
+STU1560,23,Female,Computer Science,2,12.6,69.2,67.1,50.6,2.12,Yes,No,No,6.6,9,51.9,1,At Risk
+STU1561,21,Female,Social Sciences,4,15.2,66.4,62.4,66.4,1.78,Yes,No,No,3.0,4,51.8,1,At Risk
+STU1562,17,Female,Computer Science,1,21.2,81.9,81.0,68.8,2.22,Yes,Yes,No,6.6,8,82.7,0,Not At Risk
+STU1563,20,Male,Business,7,13.8,61.5,74.9,37.4,3.73,Yes,Yes,No,0.0,9,62.0,0,Not At Risk
+STU1564,18,Female,Computer Science,1,19.0,72.3,61.6,66.4,2.69,Yes,No,No,5.5,3,81.4,0,Not At Risk
+STU1565,24,Male,Business,1,19.4,52.2,78.3,80.0,2.98,Yes,Yes,No,3.3,6,75.8,1,At Risk
+STU1566,18,Female,Social Sciences,6,12.8,80.9,80.1,73.8,2.55,Yes,No,Yes,7.9,4,73.3,0,Not At Risk
+STU1567,18,Male,Business,2,17.0,72.0,59.2,100.0,1.81,Yes,Yes,Yes,4.4,3,72.2,0,Not At Risk
+STU1568,18,Female,Social Sciences,3,12.8,60.1,63.1,85.8,3.39,Yes,No,No,8.2,9,82.8,0,Not At Risk
+STU1569,22,Male,Computer Science,3,20.6,91.0,38.8,88.7,1.59,Yes,No,Yes,6.0,3,54.0,1,At Risk
+STU1570,21,Male,Business,2,17.2,62.3,54.7,100.0,2.53,Yes,No,No,4.1,12,67.3,0,Not At Risk
+STU1571,24,Female,Social Sciences,7,8.0,87.6,59.6,78.4,2.82,Yes,No,No,6.9,4,70.1,0,Not At Risk
+STU1572,20,Female,Business,6,14.8,69.6,71.0,69.4,2.98,Yes,Yes,No,6.9,5,71.0,0,Not At Risk
+STU1573,19,Male,Computer Science,2,22.2,97.2,56.8,81.6,2.43,Yes,Yes,No,5.9,4,78.7,1,At Risk
+STU1574,17,Female,Social Sciences,6,13.1,87.0,62.8,58.6,1.78,Yes,Yes,No,0.0,7,60.0,1,At Risk
+STU1575,17,Female,Business,6,16.2,65.9,52.8,68.6,2.39,Yes,Yes,No,1.6,7,63.4,0,Not At Risk
+STU1576,19,Male,Business,5,16.7,67.0,72.4,57.3,2.42,Yes,No,Yes,8.7,2,65.5,0,Not At Risk
+STU1577,24,Female,Social Sciences,5,8.8,85.3,76.0,73.0,2.4,Yes,Yes,No,0.7,5,64.1,0,Not At Risk
+STU1578,21,Male,Computer Science,8,16.6,74.9,75.6,57.2,3.41,Yes,Yes,Yes,7.1,4,76.8,0,Not At Risk
+STU1579,24,Female,Computer Science,4,7.0,76.0,70.2,56.7,2.15,Yes,Yes,No,6.6,9,63.2,0,Not At Risk
+STU1580,17,Male,Computer Science,4,10.9,93.3,48.4,73.2,3.02,Yes,No,No,2.3,6,67.0,0,Not At Risk
+STU1581,17,Male,Business,5,19.4,69.0,61.3,64.9,2.94,Yes,No,No,0.0,5,79.5,0,Not At Risk
+STU1582,23,Female,Computer Science,7,15.8,79.1,64.3,38.1,3.41,Yes,No,No,2.8,4,75.2,0,Not At Risk
+STU1583,17,Female,Engineering,6,12.5,89.5,64.4,45.2,2.77,Yes,No,No,10.7,5,70.3,0,Not At Risk
+STU1584,17,Female,Computer Science,1,16.2,87.7,71.0,49.8,3.31,Yes,No,No,1.9,3,78.8,0,Not At Risk
+STU1585,20,Female,Engineering,4,13.7,76.1,90.0,53.8,2.75,Yes,No,No,2.1,5,70.7,0,Not At Risk
+STU1586,24,Female,Computer Science,6,14.1,74.5,81.4,73.2,3.1,Yes,No,No,1.5,6,81.4,0,Not At Risk
+STU1587,22,Female,Business,2,17.3,57.1,56.2,70.3,1.98,Yes,No,Yes,8.1,6,66.6,1,At Risk
+STU1588,17,Female,Business,8,10.4,65.3,79.5,83.0,1.32,Yes,Yes,No,3.8,6,67.7,0,Not At Risk
+STU1589,23,Male,Engineering,7,14.2,81.8,79.0,78.3,3.07,Yes,No,No,2.6,4,75.2,0,Not At Risk
+STU1590,23,Male,Business,7,12.4,76.3,58.7,83.1,3.1,Yes,Yes,No,8.7,9,71.2,0,Not At Risk
+STU1591,23,Male,Business,1,6.1,78.9,81.9,76.1,3.13,Yes,Yes,No,6.2,6,78.7,0,Not At Risk
+STU1592,24,Female,Social Sciences,5,9.4,90.5,67.8,70.1,2.55,Yes,No,Yes,1.7,5,73.8,0,Not At Risk
+STU1593,18,Male,Engineering,5,21.8,63.8,50.3,83.5,3.71,Yes,Yes,No,0.8,9,74.0,0,Not At Risk
+STU1594,24,Male,Computer Science,6,15.9,75.2,76.4,80.8,2.58,Yes,No,Yes,8.0,6,68.8,0,Not At Risk
+STU1595,19,Female,Social Sciences,7,7.4,80.3,73.0,72.6,3.09,Yes,No,No,4.6,6,80.7,0,Not At Risk
+STU1596,23,Male,Business,3,6.3,69.6,66.8,86.1,3.19,Yes,No,Yes,0.0,1,68.1,0,Not At Risk
+STU1597,21,Male,Computer Science,5,13.4,95.2,69.5,31.8,3.85,Yes,No,Yes,0.0,4,66.4,0,Not At Risk
+STU1598,23,Female,Business,6,21.8,88.9,59.9,62.6,2.67,Yes,No,No,1.2,4,64.5,0,Not At Risk
+STU1599,22,Female,Computer Science,7,13.1,81.5,78.5,62.4,2.47,No,No,No,0.8,3,63.2,0,Not At Risk
+STU1600,22,Male,Computer Science,7,20.5,99.5,69.4,84.3,1.98,No,Yes,No,0.0,4,83.2,0,Not At Risk
+STU1601,21,Male,Engineering,3,15.8,60.0,72.3,90.6,3.75,Yes,Yes,No,1.2,14,82.0,0,Not At Risk
+STU1602,23,Male,Computer Science,8,16.4,77.9,75.0,45.2,3.09,Yes,No,No,1.7,3,69.8,0,Not At Risk
+STU1603,22,Female,Social Sciences,1,7.3,82.4,53.8,88.2,3.11,Yes,No,No,3.1,8,73.3,0,Not At Risk
+STU1604,18,Female,Social Sciences,4,18.7,67.0,57.5,49.4,4.0,Yes,Yes,No,9.6,3,73.3,0,Not At Risk
+STU1605,23,Male,Engineering,5,12.3,81.6,39.1,49.9,3.04,Yes,No,Yes,3.7,5,53.3,0,Not At Risk
+STU1606,21,Female,Engineering,1,18.3,64.7,77.9,63.5,2.09,Yes,No,No,4.0,9,74.9,0,Not At Risk
+STU1607,19,Male,Engineering,4,9.9,86.3,53.0,62.2,2.74,Yes,Yes,No,6.0,7,73.2,0,Not At Risk
+STU1608,21,Male,Social Sciences,5,14.9,90.7,71.9,43.6,2.28,Yes,Yes,Yes,3.8,4,67.8,0,Not At Risk
+STU1609,24,Female,Business,5,15.8,81.3,75.2,76.7,2.62,Yes,No,No,5.7,8,67.0,0,Not At Risk
+STU1610,23,Male,Computer Science,1,13.2,55.8,78.4,77.2,2.62,Yes,Yes,No,5.3,12,63.5,1,At Risk
+STU1611,23,Male,Business,3,16.0,66.4,53.1,82.8,2.51,Yes,Yes,No,4.9,6,63.5,0,Not At Risk
+STU1612,20,Male,Business,2,12.7,84.8,69.1,60.5,2.04,Yes,No,No,12.8,7,63.6,1,At Risk
+STU1613,23,Female,Computer Science,6,10.8,78.3,93.4,66.4,3.77,Yes,No,No,7.2,4,83.2,0,Not At Risk
+STU1614,20,Female,Engineering,3,22.0,45.7,94.0,66.5,3.02,Yes,No,No,1.3,13,65.1,1,At Risk
+STU1615,22,Female,Computer Science,5,19.2,92.9,83.8,92.3,2.72,Yes,No,No,5.6,6,75.2,0,Not At Risk
+STU1616,22,Male,Social Sciences,6,10.2,79.6,74.7,24.5,3.29,Yes,No,Yes,2.1,5,74.3,0,Not At Risk
+STU1617,18,Male,Computer Science,7,16.8,68.2,55.9,52.6,3.12,Yes,No,No,5.8,4,66.7,1,At Risk
+STU1618,19,Female,Computer Science,2,10.3,89.9,80.1,67.1,3.01,Yes,No,No,0.4,6,77.1,0,Not At Risk
+STU1619,17,Male,Computer Science,8,8.1,69.9,67.8,50.7,3.25,Yes,No,No,1.2,6,61.8,0,Not At Risk
+STU1620,18,Female,Computer Science,2,19.2,69.7,77.8,63.1,2.93,Yes,No,No,5.5,4,63.8,0,Not At Risk
+STU1621,20,Female,Computer Science,1,5.5,82.3,61.1,65.1,3.24,Yes,No,No,7.5,2,70.4,0,Not At Risk
+STU1622,20,Male,Computer Science,1,18.6,99.4,67.6,57.1,3.29,Yes,No,No,6.0,7,73.7,0,Not At Risk
+STU1623,18,Female,Computer Science,2,12.7,97.5,72.3,68.0,2.94,Yes,Yes,Yes,7.1,3,81.8,0,Not At Risk
+STU1624,20,Male,Computer Science,7,12.9,82.3,73.4,76.4,2.72,Yes,No,No,5.6,2,80.7,0,Not At Risk
+STU1625,21,Male,Business,2,16.0,83.5,76.9,63.5,3.74,Yes,No,Yes,5.0,6,81.9,1,At Risk
+STU1626,18,Female,Business,6,16.9,87.5,61.9,60.2,2.57,Yes,No,No,3.0,3,75.5,0,Not At Risk
+STU1627,19,Male,Business,4,9.9,62.9,51.2,64.5,3.08,Yes,Yes,Yes,6.9,8,71.3,0,Not At Risk
+STU1628,19,Female,Business,1,17.6,85.7,92.7,66.9,3.09,Yes,No,No,7.6,6,81.7,0,Not At Risk
+STU1629,21,Female,Computer Science,4,14.6,69.2,100.0,40.9,2.5,Yes,No,No,4.3,7,71.6,0,Not At Risk
+STU1630,19,Female,Computer Science,1,7.7,81.8,76.3,73.9,2.38,Yes,No,No,4.1,3,73.4,0,Not At Risk
+STU1631,22,Female,Computer Science,4,13.2,75.3,51.5,60.2,2.64,Yes,No,No,9.3,7,50.3,0,Not At Risk
+STU1632,19,Male,Engineering,5,20.9,84.0,59.2,85.9,2.56,Yes,Yes,No,4.4,3,76.8,0,Not At Risk
+STU1633,20,Male,Social Sciences,5,22.4,79.4,77.1,75.9,2.0,Yes,Yes,No,4.7,2,70.7,0,Not At Risk
+STU1634,20,Female,Social Sciences,3,17.6,41.1,88.8,84.6,2.47,Yes,No,Yes,6.0,12,65.2,1,At Risk
+STU1635,18,Female,Business,7,8.0,80.1,53.0,51.8,3.0,Yes,Yes,No,4.2,6,58.6,0,Not At Risk
+STU1636,22,Male,Business,5,16.5,85.7,68.3,61.4,3.58,Yes,No,Yes,2.0,5,78.9,0,Not At Risk
+STU1637,18,Male,Computer Science,3,18.3,83.4,72.7,48.4,3.17,Yes,Yes,No,5.6,6,77.8,0,Not At Risk
+STU1638,19,Male,Engineering,4,17.6,76.8,82.1,56.4,1.34,Yes,No,No,4.4,5,68.5,1,At Risk
+STU1639,23,Male,Engineering,1,17.9,97.7,65.2,85.8,3.22,Yes,No,No,10.0,15,84.6,0,Not At Risk
+STU1640,24,Female,Social Sciences,8,15.8,81.7,48.1,89.3,2.53,Yes,Yes,Yes,6.9,4,62.3,0,Not At Risk
+STU1641,22,Male,Social Sciences,7,13.6,83.3,78.7,49.8,3.11,No,No,No,2.7,4,62.8,0,Not At Risk
+STU1642,24,Female,Business,3,11.0,90.5,85.7,60.1,2.84,Yes,No,No,6.7,8,88.6,0,Not At Risk
+STU1643,23,Female,Engineering,6,4.5,82.4,68.8,65.9,2.74,Yes,Yes,No,5.4,9,71.2,0,Not At Risk
+STU1644,20,Female,Social Sciences,6,15.7,67.2,75.7,75.8,2.79,Yes,No,Yes,8.4,6,71.5,0,Not At Risk
+STU1645,23,Male,Computer Science,5,14.9,48.7,63.4,40.6,2.84,No,No,No,2.9,4,55.3,1,At Risk
+STU1646,19,Male,Social Sciences,1,16.8,72.3,58.2,43.0,3.63,Yes,No,No,5.1,5,66.8,0,Not At Risk
+STU1647,20,Female,Computer Science,8,7.3,87.1,84.4,74.3,2.84,Yes,No,No,4.2,2,66.2,0,Not At Risk
+STU1648,21,Female,Social Sciences,8,17.2,73.8,75.4,37.8,3.48,Yes,No,Yes,4.7,7,62.2,0,Not At Risk
+STU1649,24,Male,Engineering,8,24.3,87.6,76.9,60.3,3.4,Yes,Yes,No,1.8,5,80.8,1,At Risk
+STU1650,23,Female,Computer Science,8,14.4,79.8,91.0,69.4,3.24,Yes,Yes,No,6.2,4,77.0,0,Not At Risk
+STU1651,20,Male,Engineering,8,13.7,93.5,55.2,73.2,1.81,Yes,No,No,5.8,6,61.2,0,Not At Risk
+STU1652,22,Female,Computer Science,6,15.5,74.5,62.3,64.9,3.5,Yes,No,No,8.4,8,85.0,0,Not At Risk
+STU1653,18,Male,Engineering,1,24.2,83.6,72.2,61.5,2.58,Yes,No,No,4.5,7,70.0,0,Not At Risk
+STU1654,23,Male,Engineering,4,8.9,84.1,62.1,79.7,3.27,Yes,Yes,No,3.3,6,76.7,0,Not At Risk
+STU1655,21,Female,Engineering,2,15.0,96.0,81.0,71.3,2.29,Yes,No,No,6.9,3,77.5,0,Not At Risk
+STU1656,21,Male,Social Sciences,2,10.0,57.5,67.4,57.3,2.16,No,No,Yes,2.1,12,52.5,1,At Risk
+STU1657,23,Male,Computer Science,7,11.3,72.5,56.1,67.6,4.0,Yes,Yes,Yes,7.8,5,71.0,0,Not At Risk
+STU1658,22,Male,Computer Science,7,13.8,88.2,70.9,72.7,2.29,Yes,No,No,7.7,2,80.0,0,Not At Risk
+STU1659,17,Male,Business,5,20.7,96.6,72.4,92.8,3.51,Yes,No,No,8.3,3,92.4,0,Not At Risk
+STU1660,19,Female,Computer Science,6,23.0,80.9,83.1,78.8,2.92,Yes,Yes,No,5.6,7,73.4,0,Not At Risk
+STU1661,18,Male,Business,2,16.2,74.5,75.5,85.2,2.61,Yes,No,Yes,3.0,3,74.7,0,Not At Risk
+STU1662,22,Female,Computer Science,2,12.1,87.1,76.5,57.8,2.82,Yes,Yes,Yes,4.8,6,69.7,0,Not At Risk
+STU1663,17,Female,Business,7,26.5,88.4,74.5,59.1,2.1,Yes,No,Yes,5.6,5,69.3,0,Not At Risk
+STU1664,18,Male,Business,4,11.9,73.7,67.4,63.5,2.84,No,Yes,No,2.8,5,69.7,0,Not At Risk
+STU1665,21,Male,Social Sciences,5,11.1,82.0,60.0,64.8,2.22,Yes,Yes,No,8.5,5,68.6,0,Not At Risk
+STU1666,22,Female,Computer Science,4,5.1,92.2,74.0,51.9,2.62,Yes,Yes,No,6.2,5,70.5,0,Not At Risk
+STU1667,21,Female,Social Sciences,2,21.0,100.0,65.3,86.0,3.39,Yes,Yes,No,1.8,3,90.1,0,Not At Risk
+STU1668,23,Female,Business,7,18.8,86.9,93.7,80.3,3.0,Yes,Yes,Yes,10.1,8,82.6,0,Not At Risk
+STU1669,24,Female,Business,7,26.1,78.5,88.8,62.4,1.99,Yes,No,No,4.8,3,61.5,0,Not At Risk
+STU1670,18,Male,Business,6,7.1,77.4,78.9,76.6,3.34,Yes,Yes,Yes,1.2,7,79.1,0,Not At Risk
+STU1671,24,Male,Business,3,21.3,84.7,75.3,70.3,2.85,Yes,Yes,No,2.0,8,78.8,0,Not At Risk
+STU1672,21,Female,Computer Science,6,14.4,76.6,68.8,77.8,2.54,Yes,Yes,No,9.0,4,67.3,0,Not At Risk
+STU1673,22,Male,Business,8,18.0,80.3,52.3,46.8,3.28,Yes,No,No,10.0,7,66.8,0,Not At Risk
+STU1674,17,Female,Computer Science,6,5.8,65.3,67.0,64.8,2.75,Yes,Yes,Yes,7.5,3,68.6,0,Not At Risk
+STU1675,21,Male,Business,4,21.3,93.6,71.4,66.1,2.17,Yes,No,Yes,8.5,5,78.0,0,Not At Risk
+STU1676,22,Female,Engineering,3,17.9,64.3,73.2,76.4,3.92,Yes,No,No,8.1,7,80.7,0,Not At Risk
+STU1677,21,Male,Business,5,13.8,72.8,76.6,57.6,2.84,Yes,No,Yes,6.2,5,69.4,0,Not At Risk
+STU1678,17,Male,Social Sciences,3,17.2,79.2,82.9,29.5,2.8,Yes,Yes,No,5.5,8,70.0,0,Not At Risk
+STU1679,21,Male,Computer Science,5,10.2,100.0,60.3,50.8,2.62,Yes,No,No,6.1,3,66.1,0,Not At Risk
+STU1680,24,Male,Social Sciences,1,11.1,72.9,60.4,66.1,3.53,Yes,No,No,6.7,6,72.3,0,Not At Risk
+STU1681,22,Female,Engineering,2,11.7,70.0,90.3,68.0,2.55,Yes,Yes,No,2.3,4,69.4,0,Not At Risk
+STU1682,18,Male,Social Sciences,7,4.7,71.4,80.8,92.3,1.95,No,No,Yes,6.7,5,71.8,0,Not At Risk
+STU1683,24,Male,Social Sciences,4,18.3,97.9,64.5,75.7,2.46,No,No,No,8.9,4,64.3,0,Not At Risk
+STU1684,24,Male,Computer Science,4,20.0,44.3,68.5,68.2,3.62,Yes,No,No,3.9,14,68.8,1,At Risk
+STU1685,18,Male,Business,5,10.5,66.0,68.6,66.5,3.33,No,No,No,3.6,10,64.0,0,Not At Risk
+STU1686,23,Female,Computer Science,4,15.7,100.0,70.4,83.6,2.7,Yes,No,No,5.9,5,84.8,0,Not At Risk
+STU1687,20,Male,Social Sciences,7,12.7,85.1,76.6,58.1,3.65,No,Yes,No,2.6,4,71.9,0,Not At Risk
+STU1688,21,Female,Engineering,2,15.6,64.7,100.0,64.9,3.28,No,No,Yes,0.5,9,71.8,0,Not At Risk
+STU1689,20,Male,Computer Science,7,10.9,77.5,72.7,50.7,2.7,Yes,Yes,Yes,7.9,5,65.8,0,Not At Risk
+STU1690,23,Female,Social Sciences,2,9.6,78.8,79.3,88.3,2.75,Yes,Yes,No,3.1,1,82.6,0,Not At Risk
+STU1691,24,Male,Computer Science,3,19.3,88.2,46.4,72.9,3.04,Yes,Yes,No,4.6,4,68.5,0,Not At Risk
+STU1692,23,Male,Engineering,5,13.7,100.0,63.2,56.4,2.37,Yes,No,Yes,2.7,2,72.9,0,Not At Risk
+STU1693,24,Female,Engineering,8,24.1,82.7,87.2,65.3,2.85,No,No,No,8.3,7,64.6,0,Not At Risk
+STU1694,24,Female,Computer Science,2,14.2,71.5,75.6,74.6,3.03,Yes,No,No,7.1,4,70.5,0,Not At Risk
+STU1695,17,Female,Engineering,5,9.4,87.4,25.0,63.2,1.87,Yes,No,Yes,3.8,5,43.8,0,Not At Risk
+STU1696,19,Male,Social Sciences,1,20.1,69.6,79.4,59.0,2.74,Yes,No,Yes,1.0,6,73.4,0,Not At Risk
+STU1697,22,Male,Computer Science,1,17.2,65.6,96.9,57.2,2.67,Yes,No,No,3.5,5,73.6,0,Not At Risk
+STU1698,21,Female,Business,7,17.6,56.9,42.1,72.1,3.45,No,No,No,6.2,10,63.4,1,At Risk
+STU1699,17,Male,Computer Science,6,20.0,59.2,91.3,61.6,1.78,No,Yes,No,5.1,7,71.2,1,At Risk
+STU1700,17,Female,Engineering,4,10.7,67.2,31.2,60.2,2.63,Yes,No,No,4.8,8,51.5,1,At Risk
+STU1701,21,Female,Computer Science,5,13.4,63.9,83.1,47.0,2.57,No,No,No,5.1,7,63.4,0,Not At Risk
+STU1702,21,Female,Social Sciences,4,13.1,81.8,69.9,68.2,3.41,Yes,No,No,6.8,8,73.4,0,Not At Risk
+STU1703,18,Female,Social Sciences,3,7.5,63.6,37.1,64.3,2.82,No,No,No,4.4,13,48.8,1,At Risk
+STU1704,18,Female,Computer Science,4,12.7,40.3,76.2,62.2,3.89,Yes,No,No,5.9,8,74.3,1,At Risk
+STU1705,18,Male,Business,3,20.7,65.5,86.1,70.0,3.23,Yes,Yes,Yes,1.5,7,88.1,0,Not At Risk
+STU1706,21,Male,Engineering,7,15.2,72.3,75.1,78.2,2.61,Yes,No,No,12.2,6,68.9,0,Not At Risk
+STU1707,17,Female,Engineering,4,7.3,70.7,78.2,77.5,2.99,Yes,No,No,3.6,3,78.1,0,Not At Risk
+STU1708,21,Male,Business,3,6.2,96.2,64.2,75.3,2.64,Yes,No,No,5.1,5,73.0,0,Not At Risk
+STU1709,20,Male,Computer Science,5,22.3,70.6,43.9,63.4,3.35,Yes,Yes,Yes,6.2,7,69.7,0,Not At Risk
+STU1710,20,Male,Computer Science,7,13.5,88.6,79.7,58.5,2.08,Yes,Yes,No,3.3,5,70.5,0,Not At Risk
+STU1711,22,Female,Social Sciences,3,10.8,77.8,94.5,51.3,2.37,Yes,No,No,4.5,6,65.1,0,Not At Risk
+STU1712,21,Female,Business,8,12.6,77.5,85.8,58.1,3.11,Yes,No,Yes,4.5,10,48.0,1,At Risk
+STU1713,22,Female,Social Sciences,4,6.6,68.0,42.2,67.3,3.56,Yes,No,No,1.8,4,74.0,0,Not At Risk
+STU1714,23,Male,Business,6,21.1,77.3,48.8,55.2,1.57,Yes,No,No,5.8,5,53.0,1,At Risk
+STU1715,24,Male,Social Sciences,8,12.0,68.8,58.2,68.4,3.65,Yes,Yes,No,0.0,4,71.8,0,Not At Risk
+STU1716,23,Female,Computer Science,4,20.8,80.0,47.7,52.5,2.77,Yes,Yes,Yes,9.8,6,63.0,0,Not At Risk
+STU1717,21,Male,Computer Science,2,14.3,75.2,70.6,42.1,1.76,Yes,No,No,6.9,4,53.1,1,At Risk
+STU1718,20,Female,Social Sciences,6,21.1,66.7,75.5,79.3,1.11,Yes,Yes,Yes,6.4,8,63.1,0,Not At Risk
+STU1719,18,Female,Social Sciences,1,15.3,89.9,50.0,59.9,1.96,Yes,No,No,0.0,3,62.8,1,At Risk
+STU1720,21,Male,Computer Science,4,18.3,83.1,80.9,54.4,2.84,Yes,No,No,2.1,1,71.3,0,Not At Risk
+STU1721,18,Male,Business,8,17.6,72.6,78.4,50.6,2.81,Yes,No,Yes,8.7,5,68.2,0,Not At Risk
+STU1722,24,Male,Business,4,17.1,79.7,62.3,73.3,3.22,Yes,No,No,17.0,6,73.6,0,Not At Risk
+STU1723,23,Female,Business,6,15.7,77.0,67.6,87.6,2.53,No,Yes,No,8.1,6,77.4,0,Not At Risk
+STU1724,17,Female,Computer Science,5,12.8,67.6,42.7,61.0,2.21,Yes,Yes,No,7.6,6,49.3,1,At Risk
+STU1725,23,Male,Social Sciences,2,23.6,78.8,65.3,63.8,2.61,Yes,No,No,6.1,2,68.4,0,Not At Risk
+STU1726,17,Female,Computer Science,3,9.5,70.5,70.1,83.1,2.87,Yes,No,No,2.0,5,75.7,0,Not At Risk
+STU1727,22,Male,Engineering,5,14.0,66.7,72.4,39.8,2.98,Yes,Yes,No,7.5,3,62.0,0,Not At Risk
+STU1728,17,Male,Computer Science,1,14.1,58.5,75.3,96.5,2.39,Yes,Yes,No,1.2,8,65.9,1,At Risk
+STU1729,20,Female,Computer Science,4,16.0,73.7,73.4,100.0,3.37,Yes,Yes,No,0.9,2,83.0,0,Not At Risk
+STU1730,22,Male,Engineering,4,11.9,84.8,66.3,26.4,2.49,No,No,No,0.7,5,55.4,0,Not At Risk
+STU1731,22,Male,Business,7,15.6,69.7,74.0,65.5,2.35,No,No,No,7.4,8,61.8,0,Not At Risk
+STU1732,20,Female,Engineering,1,13.2,100.0,84.0,56.2,2.54,Yes,No,No,4.3,5,72.3,0,Not At Risk
+STU1733,24,Male,Computer Science,7,6.1,88.6,68.7,63.0,3.47,Yes,No,No,4.8,2,69.2,0,Not At Risk
+STU1734,23,Female,Social Sciences,4,14.0,93.7,74.4,60.7,2.77,Yes,Yes,No,4.5,4,79.5,1,At Risk
+STU1735,18,Male,Engineering,6,8.5,87.5,67.4,79.2,2.45,Yes,No,No,1.1,5,78.1,0,Not At Risk
+STU1736,22,Male,Social Sciences,5,5.3,100.0,60.9,65.3,3.39,Yes,Yes,No,2.5,9,61.2,0,Not At Risk
+STU1737,22,Male,Computer Science,3,14.7,68.6,77.3,53.3,4.0,Yes,No,Yes,2.6,4,65.6,0,Not At Risk
+STU1738,19,Male,Business,8,16.4,47.3,62.2,64.4,2.97,Yes,Yes,No,0.3,4,71.1,1,At Risk
+STU1739,22,Male,Business,2,16.6,72.6,75.4,74.7,3.57,Yes,No,Yes,3.0,1,89.2,0,Not At Risk
+STU1740,24,Male,Business,1,16.8,84.7,70.4,49.2,3.45,Yes,Yes,Yes,1.3,6,60.4,0,Not At Risk
+STU1741,23,Female,Computer Science,7,4.3,79.8,65.7,42.3,2.5,Yes,No,Yes,6.2,6,61.1,0,Not At Risk
+STU1742,23,Male,Computer Science,5,7.2,81.3,65.4,96.9,2.87,Yes,Yes,No,6.5,6,85.5,0,Not At Risk
+STU1743,22,Male,Business,8,23.9,93.9,62.9,57.4,2.11,Yes,No,No,0.6,5,63.9,0,Not At Risk
+STU1744,19,Male,Computer Science,4,8.8,82.6,47.0,64.9,2.73,Yes,Yes,No,3.6,6,73.2,0,Not At Risk
+STU1745,23,Male,Business,1,17.1,87.6,75.4,61.0,2.49,No,No,Yes,10.1,6,66.4,0,Not At Risk
+STU1746,19,Male,Computer Science,1,10.6,66.7,73.2,75.2,2.62,Yes,No,No,1.6,7,68.5,0,Not At Risk
+STU1747,21,Female,Computer Science,4,14.4,64.9,81.9,93.6,2.42,Yes,Yes,Yes,5.8,13,64.9,1,At Risk
+STU1748,19,Male,Engineering,2,10.8,97.4,62.6,75.7,2.68,Yes,Yes,No,4.8,5,80.3,1,At Risk
+STU1749,19,Female,Business,8,16.8,79.2,96.5,44.2,3.16,Yes,No,No,7.8,4,79.6,0,Not At Risk
+STU1750,18,Female,Business,1,14.7,70.5,64.7,46.2,2.78,No,No,Yes,5.4,4,70.0,0,Not At Risk
+STU1751,24,Male,Business,8,11.8,70.5,57.7,61.0,1.77,Yes,No,No,3.2,5,65.1,0,Not At Risk
+STU1752,18,Male,Engineering,2,8.7,70.2,56.1,63.0,2.42,Yes,Yes,No,4.7,3,62.9,0,Not At Risk
+STU1753,17,Male,Business,1,15.3,69.5,45.7,41.2,1.97,Yes,No,No,4.7,5,69.4,1,At Risk
+STU1754,24,Female,Engineering,3,7.9,62.6,91.5,79.3,2.99,Yes,Yes,Yes,4.2,11,77.7,0,Not At Risk
+STU1755,21,Male,Social Sciences,2,16.1,60.0,89.2,50.7,3.14,No,Yes,No,0.5,17,63.4,0,Not At Risk
+STU1756,20,Female,Business,4,27.1,75.7,78.4,89.4,3.0,Yes,No,No,8.2,5,77.6,0,Not At Risk
+STU1757,22,Female,Social Sciences,3,20.8,70.9,57.5,94.3,2.39,Yes,No,No,7.7,6,63.1,1,At Risk
+STU1758,20,Female,Engineering,5,17.6,91.3,95.4,63.3,2.99,Yes,Yes,No,1.4,5,73.6,0,Not At Risk
+STU1759,18,Female,Computer Science,5,13.6,81.5,65.1,73.6,2.58,Yes,No,Yes,3.6,5,63.7,0,Not At Risk
+STU1760,22,Female,Business,1,4.3,81.2,66.2,48.5,2.19,Yes,No,No,3.8,9,63.0,0,Not At Risk
+STU1761,18,Male,Engineering,1,7.4,69.1,90.1,76.4,3.28,Yes,No,No,1.0,2,80.8,0,Not At Risk
+STU1762,21,Male,Social Sciences,2,20.4,76.5,79.2,59.5,3.32,Yes,Yes,No,0.0,4,74.6,0,Not At Risk
+STU1763,24,Male,Business,2,10.1,82.3,100.0,50.7,3.4,Yes,No,Yes,2.5,7,73.2,0,Not At Risk
+STU1764,24,Female,Computer Science,1,10.5,86.6,73.5,62.7,2.5,Yes,No,No,3.4,6,66.4,0,Not At Risk
+STU1765,19,Female,Engineering,3,13.2,76.9,64.4,60.0,3.53,Yes,No,Yes,0.2,4,76.0,0,Not At Risk
+STU1766,23,Female,Computer Science,5,8.7,90.9,61.4,62.1,2.56,Yes,Yes,No,5.0,11,58.6,0,Not At Risk
+STU1767,21,Male,Engineering,3,7.9,78.1,44.1,81.2,3.23,Yes,No,No,8.0,4,71.6,0,Not At Risk
+STU1768,20,Female,Business,3,13.7,87.5,66.1,55.2,2.55,Yes,No,No,7.0,2,70.7,0,Not At Risk
+STU1769,18,Male,Engineering,4,9.5,72.1,86.0,93.0,2.72,Yes,No,No,4.1,7,70.5,0,Not At Risk
+STU1770,20,Male,Social Sciences,5,10.3,56.2,78.4,47.1,1.45,Yes,No,No,0.0,9,58.3,1,At Risk
+STU1771,22,Female,Engineering,3,10.1,81.2,70.3,91.2,2.67,Yes,No,No,6.6,4,73.8,0,Not At Risk
+STU1772,24,Male,Engineering,2,16.6,86.7,56.1,51.8,2.9,Yes,No,Yes,4.9,4,61.1,0,Not At Risk
+STU1773,17,Male,Engineering,4,12.8,84.9,73.2,67.0,2.61,Yes,No,Yes,5.8,5,74.7,0,Not At Risk
+STU1774,22,Female,Social Sciences,1,13.1,83.1,84.2,59.6,3.87,Yes,Yes,Yes,10.3,4,81.0,0,Not At Risk
+STU1775,23,Male,Social Sciences,4,17.0,73.8,76.0,61.8,2.18,No,Yes,No,2.0,4,68.8,0,Not At Risk
+STU1776,24,Male,Computer Science,8,13.3,68.3,72.3,79.0,2.52,Yes,No,No,0.0,7,61.3,0,Not At Risk
+STU1777,20,Male,Business,4,12.6,84.6,58.8,89.5,2.33,Yes,No,No,1.3,3,77.3,0,Not At Risk
+STU1778,17,Male,Computer Science,1,16.4,83.1,82.1,84.9,2.52,No,No,Yes,6.0,3,88.3,0,Not At Risk
+STU1779,19,Female,Social Sciences,6,17.3,71.3,26.2,60.9,3.45,Yes,No,Yes,4.6,5,55.1,0,Not At Risk
+STU1780,23,Female,Engineering,2,13.3,91.3,75.4,69.8,3.71,Yes,No,No,0.9,3,84.4,1,At Risk
+STU1781,24,Male,Business,2,14.4,67.4,100.0,55.3,2.44,Yes,No,Yes,0.2,6,63.3,0,Not At Risk
+STU1782,22,Male,Computer Science,2,10.1,71.0,48.9,52.1,2.43,Yes,No,No,3.4,6,71.2,0,Not At Risk
+STU1783,17,Male,Business,8,9.7,97.6,66.6,49.8,2.18,Yes,No,No,0.8,7,69.6,0,Not At Risk
+STU1784,17,Female,Engineering,8,17.8,88.4,69.9,60.4,3.61,Yes,Yes,No,6.1,1,83.6,0,Not At Risk
+STU1785,20,Female,Computer Science,5,16.2,73.7,63.5,70.7,3.5,Yes,No,No,3.3,5,67.3,0,Not At Risk
+STU1786,21,Female,Computer Science,5,16.3,81.4,84.5,38.3,2.79,Yes,No,No,2.6,4,63.0,0,Not At Risk
+STU1787,17,Male,Social Sciences,6,15.4,79.9,76.6,66.3,2.04,Yes,Yes,No,2.2,5,73.1,0,Not At Risk
+STU1788,22,Male,Engineering,5,14.2,45.1,72.1,89.7,2.09,Yes,No,No,5.3,13,51.0,1,At Risk
+STU1789,21,Male,Computer Science,5,17.5,67.1,81.2,83.8,2.95,Yes,Yes,No,4.6,11,66.3,0,Not At Risk
+STU1790,17,Female,Computer Science,8,18.7,77.4,70.2,58.2,3.17,Yes,No,No,5.1,4,73.0,0,Not At Risk
+STU1791,17,Male,Social Sciences,6,18.6,73.7,100.0,46.0,1.65,Yes,No,No,5.0,8,63.4,1,At Risk
+STU1792,20,Female,Engineering,1,13.5,81.0,72.1,73.9,2.66,Yes,Yes,No,4.3,6,74.9,0,Not At Risk
+STU1793,22,Female,Engineering,4,20.9,91.6,72.7,32.2,3.79,Yes,No,Yes,1.4,5,70.9,0,Not At Risk
+STU1794,23,Male,Computer Science,8,15.1,74.1,46.1,83.7,2.72,Yes,Yes,No,2.3,2,77.1,0,Not At Risk
+STU1795,20,Male,Computer Science,4,17.2,65.3,62.4,63.8,3.71,Yes,No,No,3.3,5,67.4,0,Not At Risk
+STU1796,19,Male,Computer Science,2,15.4,81.9,86.1,94.5,3.23,Yes,No,No,10.7,4,89.2,0,Not At Risk
+STU1797,24,Male,Engineering,7,15.2,74.1,51.3,41.1,2.22,Yes,Yes,No,0.5,5,58.2,0,Not At Risk
+STU1798,20,Male,Computer Science,5,10.3,76.1,39.8,80.8,2.68,Yes,Yes,No,3.2,5,69.4,0,Not At Risk
+STU1799,19,Female,Computer Science,5,17.5,74.5,70.5,65.5,2.78,Yes,No,Yes,4.8,3,77.6,0,Not At Risk
+STU1800,20,Male,Engineering,4,28.2,100.0,89.2,62.0,2.3,Yes,No,No,3.6,5,77.3,1,At Risk
+STU1801,17,Male,Social Sciences,1,12.1,51.1,70.6,46.5,2.29,No,Yes,No,7.7,6,50.2,1,At Risk
+STU1802,19,Female,Engineering,4,14.4,73.3,65.3,75.9,3.72,Yes,No,No,3.6,2,69.2,0,Not At Risk
+STU1803,21,Female,Business,4,11.8,78.0,44.0,77.1,2.28,Yes,No,No,3.8,2,53.5,1,At Risk
+STU1804,24,Male,Business,8,11.6,68.6,76.3,93.8,3.48,Yes,Yes,Yes,6.9,5,79.4,0,Not At Risk
+STU1805,22,Female,Business,3,21.7,88.8,79.3,82.1,2.6,Yes,No,No,9.9,4,80.0,0,Not At Risk
+STU1806,23,Female,Business,2,10.6,87.8,45.1,58.1,2.84,Yes,No,No,8.7,4,58.3,0,Not At Risk
+STU1807,21,Female,Business,4,11.6,77.4,85.9,51.9,3.18,No,Yes,No,4.1,5,65.9,0,Not At Risk
+STU1808,17,Female,Business,8,6.1,74.8,80.7,46.5,2.5,Yes,No,No,4.4,5,70.7,0,Not At Risk
+STU1809,20,Male,Engineering,4,10.2,76.7,85.9,89.1,3.18,No,Yes,Yes,4.6,9,80.7,0,Not At Risk
+STU1810,24,Female,Social Sciences,4,5.5,76.7,78.2,55.3,1.66,Yes,Yes,No,4.9,2,54.6,1,At Risk
+STU1811,17,Male,Social Sciences,6,17.2,77.1,79.2,89.2,3.11,Yes,Yes,No,2.0,3,81.2,0,Not At Risk
+STU1812,24,Female,Computer Science,6,28.0,75.7,77.3,74.9,1.42,Yes,No,No,7.3,3,73.0,0,Not At Risk
+STU1813,22,Female,Business,3,12.2,81.0,82.2,71.9,2.72,No,No,No,5.1,8,65.9,0,Not At Risk
+STU1814,19,Male,Computer Science,8,5.7,87.0,44.5,62.4,3.35,Yes,No,No,4.4,4,62.3,0,Not At Risk
+STU1815,23,Male,Business,5,18.5,63.2,49.0,76.9,3.21,Yes,Yes,No,0.7,12,63.8,0,Not At Risk
+STU1816,23,Female,Computer Science,1,10.4,65.4,59.7,66.8,2.1,Yes,No,No,4.7,6,64.8,0,Not At Risk
+STU1817,17,Female,Computer Science,4,20.5,57.0,68.2,61.5,2.17,Yes,No,No,0.0,4,69.6,1,At Risk
+STU1818,17,Male,Engineering,8,12.6,88.4,75.4,77.4,2.45,Yes,Yes,No,2.8,4,71.5,0,Not At Risk
+STU1819,22,Female,Business,4,10.8,81.0,74.5,64.8,2.96,Yes,Yes,No,2.8,4,76.1,0,Not At Risk
+STU1820,24,Female,Social Sciences,5,13.1,84.1,85.6,55.0,1.67,Yes,No,No,5.4,8,62.1,1,At Risk
+STU1821,17,Male,Computer Science,5,17.8,60.8,86.1,76.0,2.84,Yes,Yes,No,10.1,10,66.0,0,Not At Risk
+STU1822,22,Male,Computer Science,6,12.9,99.4,57.8,66.0,3.03,Yes,No,No,6.2,5,71.5,0,Not At Risk
+STU1823,18,Male,Business,7,11.5,70.7,73.3,74.3,2.69,Yes,No,Yes,8.8,3,62.9,0,Not At Risk
+STU1824,22,Female,Computer Science,2,13.0,80.0,58.1,60.2,3.15,Yes,Yes,No,6.4,6,75.8,0,Not At Risk
+STU1825,21,Male,Computer Science,5,7.6,88.3,67.4,48.9,2.98,Yes,No,No,7.9,3,76.7,0,Not At Risk
+STU1826,17,Female,Social Sciences,5,16.0,66.2,74.5,93.0,2.54,Yes,No,No,10.1,10,68.2,0,Not At Risk
+STU1827,22,Male,Computer Science,2,5.1,71.4,25.0,90.2,1.73,No,No,No,2.3,5,48.6,1,At Risk
+STU1828,24,Female,Computer Science,6,11.8,80.2,100.0,80.3,2.93,Yes,No,No,2.1,5,86.8,0,Not At Risk
+STU1829,23,Male,Engineering,1,17.8,100.0,77.9,61.2,2.3,Yes,No,No,6.5,5,80.4,0,Not At Risk
+STU1830,17,Male,Business,4,15.5,81.6,61.7,62.5,2.51,Yes,No,No,4.5,4,61.1,0,Not At Risk
+STU1831,18,Female,Engineering,3,17.0,97.3,97.0,87.7,3.13,Yes,Yes,No,5.2,4,90.2,0,Not At Risk
+STU1832,18,Male,Business,2,13.7,92.5,65.1,61.7,3.67,Yes,No,No,3.8,4,77.2,0,Not At Risk
+STU1833,20,Female,Social Sciences,7,19.8,82.4,71.9,57.5,2.83,Yes,No,No,2.7,4,68.0,0,Not At Risk
+STU1834,18,Female,Computer Science,2,18.6,66.1,63.2,95.1,3.17,Yes,No,Yes,9.4,5,78.6,0,Not At Risk
+STU1835,23,Female,Business,3,16.2,90.7,93.1,66.3,2.01,Yes,No,Yes,1.2,8,66.4,0,Not At Risk
+STU1836,23,Female,Engineering,7,18.6,60.0,68.5,93.5,2.99,Yes,Yes,No,6.6,12,68.9,0,Not At Risk
+STU1837,23,Male,Social Sciences,8,17.8,97.2,72.1,46.0,2.82,Yes,No,No,6.1,7,69.3,0,Not At Risk
+STU1838,18,Female,Business,1,11.8,80.4,86.9,74.8,3.56,Yes,Yes,No,0.0,7,72.2,0,Not At Risk
+STU1839,17,Female,Engineering,3,7.3,46.2,78.2,98.1,2.54,Yes,Yes,Yes,2.0,3,58.8,1,At Risk
+STU1840,24,Male,Computer Science,6,16.1,73.9,69.2,67.4,2.71,Yes,No,No,2.5,5,74.7,0,Not At Risk
+STU1841,19,Male,Computer Science,7,16.7,85.8,85.5,63.0,3.46,Yes,No,No,6.2,6,74.9,0,Not At Risk
+STU1842,22,Female,Computer Science,8,19.5,75.2,100.0,49.5,2.8,No,Yes,No,3.4,7,84.0,0,Not At Risk
+STU1843,24,Male,Engineering,5,9.3,86.6,74.4,83.2,2.21,Yes,No,No,4.2,4,83.5,0,Not At Risk
+STU1844,17,Female,Computer Science,1,9.5,67.8,71.6,55.4,4.0,Yes,No,No,0.1,3,70.5,0,Not At Risk
+STU1845,17,Female,Engineering,7,16.3,62.3,72.4,65.6,2.22,Yes,Yes,No,11.5,12,73.8,0,Not At Risk
+STU1846,17,Female,Computer Science,2,13.6,77.1,88.3,48.5,2.81,Yes,No,No,4.7,2,77.0,0,Not At Risk
+STU1847,18,Male,Social Sciences,1,4.6,78.4,61.6,90.4,3.05,Yes,No,No,6.0,2,71.1,0,Not At Risk
+STU1848,17,Male,Social Sciences,6,15.9,73.8,66.1,84.3,3.01,Yes,No,No,2.9,7,58.7,0,Not At Risk
+STU1849,23,Male,Computer Science,5,4.7,92.7,48.5,66.5,2.74,Yes,Yes,No,2.5,2,72.4,0,Not At Risk
+STU1850,21,Male,Computer Science,1,9.3,67.8,53.4,49.7,2.74,Yes,No,No,10.2,4,59.0,0,Not At Risk
+STU1851,24,Female,Computer Science,2,20.8,81.8,62.8,90.0,2.71,No,No,Yes,0.0,6,75.8,0,Not At Risk
+STU1852,23,Female,Social Sciences,5,23.1,78.8,69.2,61.5,2.2,Yes,Yes,No,5.3,9,65.5,0,Not At Risk
+STU1853,24,Male,Computer Science,3,7.9,59.3,94.8,50.4,4.0,Yes,Yes,No,0.9,7,66.8,1,At Risk
+STU1854,18,Male,Business,6,12.4,62.2,77.5,40.6,2.72,Yes,Yes,No,3.3,9,57.0,0,Not At Risk
+STU1855,19,Female,Business,4,14.2,78.1,57.2,57.3,3.2,Yes,Yes,No,2.6,2,75.5,0,Not At Risk
+STU1856,23,Male,Engineering,5,22.9,100.0,59.8,45.2,2.66,Yes,No,Yes,1.5,3,68.2,0,Not At Risk
+STU1857,18,Female,Business,4,11.5,85.0,89.2,57.7,2.64,Yes,No,Yes,4.6,7,67.3,0,Not At Risk
+STU1858,17,Male,Business,3,11.6,57.3,85.8,78.2,2.59,Yes,No,No,0.0,7,59.6,1,At Risk
+STU1859,22,Female,Social Sciences,3,21.7,40.7,70.4,61.4,1.95,Yes,No,Yes,3.6,10,54.0,1,At Risk
+STU1860,23,Male,Computer Science,6,12.1,86.8,63.8,72.3,2.76,Yes,No,Yes,4.2,4,64.6,0,Not At Risk
+STU1861,24,Female,Social Sciences,5,17.6,76.8,85.7,56.1,2.61,No,No,No,0.4,6,73.3,0,Not At Risk
+STU1862,24,Male,Computer Science,5,6.6,91.7,56.1,68.0,3.53,Yes,No,Yes,9.0,3,69.0,0,Not At Risk
+STU1863,17,Female,Business,5,13.1,67.4,75.5,95.8,2.16,Yes,No,No,2.7,3,71.5,0,Not At Risk
+STU1864,23,Male,Social Sciences,2,5.7,82.2,100.0,61.8,2.52,No,Yes,No,3.8,9,80.5,0,Not At Risk
+STU1865,23,Male,Engineering,8,8.7,88.2,72.9,72.8,2.33,Yes,No,No,2.7,5,67.8,0,Not At Risk
+STU1866,22,Female,Engineering,5,18.2,72.6,59.1,43.5,3.69,Yes,No,No,4.3,7,64.4,0,Not At Risk
+STU1867,23,Male,Computer Science,6,13.8,72.9,75.7,89.8,2.35,Yes,Yes,Yes,8.4,2,79.0,0,Not At Risk
+STU1868,23,Male,Business,8,12.4,78.3,63.4,59.8,3.18,Yes,No,No,11.9,6,58.2,0,Not At Risk
+STU1869,20,Male,Business,8,10.3,84.5,50.5,82.8,3.41,No,No,No,6.7,8,77.0,0,Not At Risk
+STU1870,17,Male,Business,6,12.9,77.8,79.8,65.2,2.77,Yes,Yes,No,7.8,4,79.2,1,At Risk
+STU1871,20,Male,Business,7,15.5,89.7,85.6,76.2,2.05,Yes,Yes,No,9.6,4,79.3,1,At Risk
+STU1872,18,Female,Business,4,18.9,72.5,65.6,77.1,2.06,No,No,No,5.2,4,46.8,1,At Risk
+STU1873,17,Male,Computer Science,6,2.0,62.1,64.7,60.2,3.35,Yes,No,No,9.2,5,61.8,0,Not At Risk
+STU1874,17,Female,Computer Science,3,9.8,100.0,56.5,83.4,2.12,No,No,No,6.9,5,60.8,0,Not At Risk
+STU1875,22,Female,Business,6,14.8,70.7,67.9,55.6,3.08,Yes,No,Yes,4.9,3,74.5,0,Not At Risk
+STU1876,21,Male,Computer Science,1,13.5,71.2,62.1,78.7,2.92,Yes,Yes,No,5.6,7,76.6,0,Not At Risk
+STU1877,21,Female,Social Sciences,8,16.0,77.2,55.8,61.1,3.07,Yes,Yes,No,0.0,1,74.6,0,Not At Risk
+STU1878,22,Female,Engineering,2,15.3,78.8,96.5,72.2,3.12,Yes,Yes,No,5.4,5,74.7,0,Not At Risk
+STU1879,21,Female,Computer Science,6,12.5,73.4,76.5,60.1,2.31,Yes,Yes,Yes,0.0,5,74.2,0,Not At Risk
+STU1880,22,Male,Engineering,1,11.4,77.8,78.0,67.7,2.28,Yes,No,No,0.0,5,66.3,0,Not At Risk
+STU1881,17,Male,Social Sciences,2,12.8,77.5,82.4,50.9,3.26,Yes,No,No,5.1,9,79.0,0,Not At Risk
+STU1882,23,Male,Computer Science,8,19.7,80.1,80.8,70.7,2.48,Yes,Yes,No,1.2,2,79.1,0,Not At Risk
+STU1883,20,Female,Computer Science,7,10.3,49.7,64.2,67.7,1.25,Yes,No,No,4.5,10,50.7,1,At Risk
+STU1884,18,Female,Computer Science,2,13.7,100.0,73.8,58.9,3.23,Yes,No,No,4.9,6,73.4,0,Not At Risk
+STU1885,23,Female,Computer Science,2,14.9,76.2,66.2,66.2,2.25,Yes,No,No,5.0,4,74.3,0,Not At Risk
+STU1886,22,Male,Engineering,7,21.8,85.0,76.1,69.0,3.12,No,Yes,No,1.8,5,81.4,0,Not At Risk
+STU1887,17,Female,Social Sciences,8,12.5,61.5,74.8,57.8,3.66,Yes,Yes,No,7.2,8,78.2,0,Not At Risk
+STU1888,18,Male,Computer Science,2,18.8,72.3,64.6,65.1,2.86,No,No,No,4.2,5,68.5,0,Not At Risk
+STU1889,17,Female,Engineering,6,20.2,69.9,51.4,51.9,3.43,Yes,Yes,No,5.8,8,66.2,0,Not At Risk
+STU1890,19,Male,Computer Science,3,13.7,95.6,72.0,100.0,2.94,Yes,No,No,0.9,6,86.3,0,Not At Risk
+STU1891,17,Female,Engineering,6,12.9,71.0,67.1,82.9,3.77,Yes,No,No,4.0,5,86.4,0,Not At Risk
+STU1892,22,Female,Engineering,4,12.4,87.1,43.5,71.1,2.23,Yes,Yes,Yes,7.8,5,69.4,0,Not At Risk
+STU1893,21,Male,Business,2,12.7,70.2,77.1,84.6,2.85,Yes,No,No,7.4,4,75.9,0,Not At Risk
+STU1894,24,Male,Computer Science,3,18.3,72.6,83.5,37.3,3.24,Yes,Yes,No,2.1,3,61.5,0,Not At Risk
+STU1895,22,Female,Engineering,5,15.2,75.1,100.0,28.6,2.74,No,Yes,No,2.9,3,72.2,0,Not At Risk
+STU1896,21,Male,Social Sciences,7,15.2,93.4,64.5,61.0,3.52,No,No,No,1.5,6,65.2,0,Not At Risk
+STU1897,21,Female,Computer Science,1,8.4,55.3,62.5,46.3,2.6,Yes,No,No,2.5,8,53.3,1,At Risk
+STU1898,17,Female,Computer Science,8,9.2,62.2,54.5,63.5,4.0,Yes,Yes,Yes,0.3,11,64.4,0,Not At Risk
+STU1899,17,Female,Computer Science,6,24.7,54.6,72.9,70.1,4.0,Yes,Yes,No,4.1,7,70.4,1,At Risk
+STU1900,21,Male,Business,8,13.1,64.9,72.8,80.8,3.01,Yes,No,Yes,6.4,10,70.2,0,Not At Risk
+STU1901,17,Male,Engineering,8,10.1,68.3,58.6,49.9,3.17,Yes,Yes,No,2.1,3,77.7,1,At Risk
+STU1902,17,Male,Engineering,2,21.2,58.6,67.6,73.0,3.54,Yes,No,No,4.2,9,69.9,1,At Risk
+STU1903,18,Female,Engineering,1,15.4,69.2,42.3,67.2,2.16,Yes,No,No,3.8,4,63.7,0,Not At Risk
+STU1904,24,Male,Social Sciences,7,16.9,53.8,83.0,72.2,2.09,Yes,No,No,7.7,8,76.8,1,At Risk
+STU1905,20,Male,Social Sciences,2,13.3,65.8,59.2,59.2,3.58,No,No,Yes,2.7,3,71.6,0,Not At Risk
+STU1906,22,Male,Computer Science,2,12.4,92.4,69.5,87.7,3.01,Yes,No,No,2.8,7,74.2,0,Not At Risk
+STU1907,20,Female,Business,4,13.2,82.8,50.0,65.4,2.72,No,Yes,No,2.0,5,66.5,0,Not At Risk
+STU1908,18,Male,Computer Science,8,7.1,80.2,61.8,93.6,2.86,Yes,No,No,1.1,10,72.7,0,Not At Risk
+STU1909,19,Female,Business,7,13.6,66.0,66.1,55.1,1.47,Yes,No,No,6.1,7,61.6,1,At Risk
+STU1910,17,Female,Social Sciences,5,15.5,59.6,69.8,78.1,2.74,No,No,No,4.1,11,69.7,1,At Risk
+STU1911,23,Female,Engineering,2,23.3,64.3,76.7,66.1,2.41,Yes,No,No,4.7,7,52.1,1,At Risk
+STU1912,18,Female,Social Sciences,3,14.4,77.5,90.1,62.1,3.38,Yes,No,No,8.3,2,74.7,0,Not At Risk
+STU1913,20,Female,Business,6,2.3,88.4,80.3,76.5,3.43,Yes,No,No,8.5,4,77.5,0,Not At Risk
+STU1914,24,Female,Business,2,13.5,88.8,83.5,62.5,3.18,Yes,Yes,No,0.0,6,71.8,0,Not At Risk
+STU1915,21,Male,Business,5,27.7,85.6,90.2,27.1,3.08,Yes,No,No,6.4,7,50.8,1,At Risk
+STU1916,20,Female,Computer Science,1,18.3,69.1,78.0,21.1,1.98,Yes,No,No,5.2,7,49.3,0,Not At Risk
+STU1917,21,Female,Computer Science,3,9.9,78.3,69.5,86.1,3.19,Yes,No,No,3.1,2,78.2,0,Not At Risk
+STU1918,23,Female,Business,2,17.0,74.1,84.1,85.5,3.22,Yes,No,No,5.5,3,79.4,0,Not At Risk
+STU1919,19,Female,Computer Science,6,10.3,75.6,85.0,95.3,3.57,Yes,No,No,0.0,8,76.0,0,Not At Risk
+STU1920,22,Female,Social Sciences,8,7.2,100.0,79.1,66.7,4.0,Yes,No,No,8.9,9,80.0,0,Not At Risk
+STU1921,23,Female,Computer Science,2,12.3,56.9,49.6,47.6,1.87,Yes,No,No,6.0,10,48.0,1,At Risk
+STU1922,21,Male,Computer Science,7,14.5,75.2,58.2,60.7,2.62,No,No,No,1.9,3,61.2,1,At Risk
+STU1923,20,Male,Engineering,6,4.6,92.5,66.2,67.2,2.42,Yes,No,Yes,2.7,6,72.9,0,Not At Risk
+STU1924,18,Male,Computer Science,8,8.3,60.4,80.9,51.9,2.95,Yes,Yes,Yes,0.0,8,62.7,1,At Risk
+STU1925,18,Male,Social Sciences,8,14.1,70.3,69.7,91.7,2.86,Yes,Yes,No,3.6,5,71.6,0,Not At Risk
+STU1926,24,Male,Engineering,1,12.0,71.7,85.9,100.0,2.71,No,No,No,3.1,8,68.6,0,Not At Risk
+STU1927,21,Male,Computer Science,6,16.0,75.3,88.4,74.2,3.45,Yes,No,No,0.5,5,79.4,0,Not At Risk
+STU1928,19,Male,Engineering,5,7.9,58.8,86.8,66.8,2.21,Yes,No,No,6.8,8,67.8,1,At Risk
+STU1929,20,Female,Engineering,1,17.6,85.1,86.9,47.6,2.25,No,Yes,No,8.3,7,61.6,0,Not At Risk
+STU1930,21,Male,Engineering,3,8.1,86.0,55.5,90.2,2.26,Yes,Yes,Yes,4.4,4,73.5,0,Not At Risk
+STU1931,21,Female,Social Sciences,8,22.2,84.1,76.8,68.1,2.64,No,No,Yes,3.6,6,72.1,0,Not At Risk
+STU1932,22,Female,Engineering,5,5.4,67.6,61.5,62.7,2.14,Yes,No,No,5.8,4,69.7,0,Not At Risk
+STU1933,19,Male,Engineering,3,8.5,79.0,46.9,74.2,2.82,Yes,No,Yes,4.4,2,68.8,0,Not At Risk
+STU1934,22,Male,Business,3,16.1,67.2,66.0,58.2,2.75,Yes,No,No,1.3,4,62.0,0,Not At Risk
+STU1935,20,Male,Engineering,7,22.3,74.0,88.5,69.2,2.39,No,No,No,2.5,7,75.0,0,Not At Risk
+STU1936,24,Female,Social Sciences,3,15.6,100.0,76.5,45.4,3.36,Yes,No,Yes,3.6,9,76.1,0,Not At Risk
+STU1937,18,Male,Engineering,2,16.8,79.1,98.2,83.3,2.82,Yes,Yes,No,5.2,4,81.8,0,Not At Risk
+STU1938,18,Male,Engineering,5,14.1,63.7,72.5,65.4,3.47,Yes,No,Yes,4.5,9,61.4,0,Not At Risk
+STU1939,20,Female,Business,8,8.9,80.2,100.0,84.4,2.74,Yes,No,No,5.1,4,83.2,0,Not At Risk
+STU1940,21,Female,Engineering,2,11.5,61.8,72.5,64.0,2.84,Yes,No,No,0.0,8,64.2,0,Not At Risk
+STU1941,22,Male,Social Sciences,3,7.9,63.6,70.3,65.0,2.52,Yes,No,No,6.5,12,49.0,1,At Risk
+STU1942,20,Male,Computer Science,4,7.6,65.5,52.1,48.8,2.85,Yes,Yes,No,4.5,2,62.2,0,Not At Risk
+STU1943,24,Male,Computer Science,2,16.0,72.7,85.5,78.4,3.26,Yes,Yes,No,12.2,5,77.0,0,Not At Risk
+STU1944,20,Male,Business,6,8.4,89.2,63.0,53.9,2.61,Yes,No,No,3.3,6,55.3,0,Not At Risk
+STU1945,18,Male,Business,3,15.6,84.9,60.9,59.7,3.15,Yes,No,Yes,5.5,1,70.8,0,Not At Risk
+STU1946,17,Female,Engineering,2,7.5,84.3,87.9,67.0,2.38,Yes,No,No,13.0,8,75.7,0,Not At Risk
+STU1947,24,Female,Computer Science,3,15.5,64.8,86.2,68.8,3.29,Yes,No,No,5.1,4,82.8,0,Not At Risk
+STU1948,18,Female,Business,8,11.6,71.5,85.8,41.4,2.51,Yes,Yes,No,4.3,3,71.5,0,Not At Risk
+STU1949,24,Female,Engineering,8,21.0,81.3,64.9,63.5,3.34,Yes,No,No,1.5,3,78.2,0,Not At Risk
+STU1950,19,Male,Engineering,5,15.6,70.5,69.3,78.9,2.89,Yes,No,Yes,9.1,6,74.4,0,Not At Risk
+STU1951,17,Female,Engineering,4,20.2,74.7,69.2,61.3,3.73,Yes,Yes,No,1.0,6,77.7,0,Not At Risk
+STU1952,19,Female,Engineering,7,10.2,83.3,81.0,63.6,2.18,Yes,No,Yes,5.8,7,58.8,0,Not At Risk
+STU1953,21,Female,Engineering,2,14.3,73.8,91.7,69.4,1.99,Yes,No,No,3.1,10,60.7,1,At Risk
+STU1954,20,Female,Engineering,6,9.1,80.7,75.2,65.1,2.49,Yes,No,No,3.9,8,62.1,0,Not At Risk
+STU1955,23,Male,Engineering,6,11.9,97.1,97.6,51.5,2.05,Yes,Yes,No,0.2,6,79.7,0,Not At Risk
+STU1956,21,Male,Business,6,12.7,75.9,82.6,66.5,2.05,Yes,Yes,Yes,8.5,5,73.6,0,Not At Risk
+STU1957,20,Male,Engineering,2,10.4,92.2,66.7,81.9,3.21,Yes,No,No,3.7,3,73.1,0,Not At Risk
+STU1958,22,Male,Computer Science,6,7.9,84.7,81.6,51.2,2.85,Yes,No,No,0.9,5,68.8,0,Not At Risk
+STU1959,24,Female,Computer Science,5,6.9,60.4,93.9,61.4,2.57,Yes,No,No,8.3,13,58.2,0,Not At Risk
+STU1960,20,Male,Business,8,2.3,64.8,98.0,46.3,2.63,Yes,No,No,3.0,17,53.6,1,At Risk
+STU1961,18,Female,Social Sciences,2,8.7,68.0,86.6,81.1,2.5,Yes,No,No,5.5,4,69.0,0,Not At Risk
+STU1962,20,Female,Engineering,5,17.1,67.7,70.4,65.6,3.81,Yes,Yes,No,7.0,11,80.8,0,Not At Risk
+STU1963,23,Male,Computer Science,7,6.0,76.9,67.0,54.2,2.42,Yes,No,No,5.9,2,62.9,0,Not At Risk
+STU1964,18,Male,Engineering,3,7.2,85.4,78.1,68.4,2.08,Yes,No,No,0.0,1,70.9,0,Not At Risk
+STU1965,24,Female,Computer Science,6,23.0,93.1,93.4,48.9,3.31,Yes,Yes,Yes,6.6,3,84.1,0,Not At Risk
+STU1966,21,Female,Engineering,1,10.8,81.7,76.1,51.5,2.72,Yes,Yes,No,4.2,5,62.5,0,Not At Risk
+STU1967,21,Male,Social Sciences,6,15.6,72.7,76.4,45.1,4.0,Yes,No,No,3.5,8,72.2,0,Not At Risk
+STU1968,19,Male,Engineering,5,17.2,53.0,70.7,51.0,2.54,Yes,No,Yes,4.2,10,62.0,1,At Risk
+STU1969,24,Female,Engineering,2,17.3,78.8,65.4,87.4,3.34,Yes,No,No,0.0,9,84.9,0,Not At Risk
+STU1970,17,Male,Business,1,6.4,78.3,67.7,56.0,3.48,Yes,Yes,Yes,5.1,7,61.4,0,Not At Risk
+STU1971,19,Female,Business,6,12.8,80.2,71.9,74.0,2.55,Yes,No,No,0.4,2,64.3,0,Not At Risk
+STU1972,20,Male,Social Sciences,2,5.9,100.0,94.1,54.5,2.42,Yes,Yes,Yes,3.6,7,71.3,0,Not At Risk
+STU1973,20,Male,Engineering,4,26.2,92.9,66.6,78.4,3.28,No,Yes,No,5.0,3,90.4,0,Not At Risk
+STU1974,20,Male,Business,1,6.0,87.4,70.7,51.6,3.18,Yes,No,No,7.7,5,70.4,0,Not At Risk
+STU1975,18,Male,Business,8,8.8,66.5,57.9,67.6,2.03,Yes,No,Yes,2.0,2,63.4,0,Not At Risk
+STU1976,18,Male,Computer Science,5,8.8,71.8,80.0,67.8,2.2,Yes,No,No,8.9,4,58.4,0,Not At Risk
+STU1977,17,Male,Computer Science,8,6.5,76.9,89.1,100.0,1.38,Yes,No,No,7.3,7,65.6,0,Not At Risk
+STU1978,21,Female,Computer Science,2,20.8,68.7,92.7,76.5,3.2,Yes,No,No,3.2,8,66.0,1,At Risk
+STU1979,19,Male,Business,2,26.1,84.0,72.8,58.1,2.7,Yes,Yes,Yes,1.2,9,70.6,0,Not At Risk
+STU1980,21,Male,Social Sciences,5,11.6,82.3,78.0,77.3,2.76,Yes,No,No,0.2,6,61.3,0,Not At Risk
+STU1981,21,Male,Business,5,7.4,64.9,67.9,99.1,1.87,Yes,No,No,5.3,11,69.7,0,Not At Risk
+STU1982,22,Male,Computer Science,7,2.8,92.4,77.4,42.6,2.21,Yes,No,No,2.3,3,71.4,0,Not At Risk
+STU1983,21,Female,Computer Science,8,12.8,79.2,74.4,54.4,2.57,Yes,No,No,8.1,8,65.1,0,Not At Risk
+STU1984,22,Male,Business,7,12.4,57.3,70.8,63.4,2.46,No,No,No,2.5,10,47.9,1,At Risk
+STU1985,21,Female,Social Sciences,2,10.7,77.4,71.9,60.7,2.92,Yes,Yes,No,1.8,5,72.2,0,Not At Risk
+STU1986,22,Male,Business,3,15.1,81.4,76.3,62.0,3.19,Yes,No,Yes,5.2,3,85.3,0,Not At Risk
+STU1987,21,Female,Engineering,8,16.0,89.7,65.9,47.4,4.0,Yes,No,No,2.4,4,79.3,1,At Risk
+STU1988,19,Male,Social Sciences,5,15.6,74.0,66.6,88.1,2.84,Yes,Yes,No,4.5,6,82.2,0,Not At Risk
+STU1989,18,Female,Computer Science,7,12.4,87.9,93.9,45.7,3.5,Yes,No,No,7.5,8,71.6,0,Not At Risk
+STU1990,23,Male,Engineering,5,8.5,80.2,100.0,64.0,2.37,Yes,No,Yes,4.9,8,63.7,0,Not At Risk
+STU1991,19,Male,Social Sciences,1,17.3,62.2,53.1,82.7,1.88,Yes,No,No,4.9,9,58.8,0,Not At Risk
+STU1992,21,Female,Business,4,14.1,61.0,52.4,66.5,2.65,Yes,No,No,5.1,16,42.8,1,At Risk
+STU1993,18,Female,Computer Science,7,18.4,91.5,56.6,52.3,1.92,Yes,No,No,0.0,4,76.1,1,At Risk
+STU1994,20,Female,Social Sciences,6,18.0,92.4,68.6,46.8,2.86,Yes,Yes,No,5.7,5,72.2,0,Not At Risk
+STU1995,21,Male,Social Sciences,2,6.9,81.9,82.5,63.6,2.4,No,Yes,No,5.0,5,72.1,0,Not At Risk
+STU1996,22,Female,Business,2,6.8,95.9,78.3,55.6,1.72,No,Yes,No,7.2,3,61.5,1,At Risk
+STU1997,21,Female,Business,7,10.2,90.7,72.4,70.1,3.86,Yes,Yes,Yes,6.3,2,73.9,0,Not At Risk
+STU1998,19,Female,Computer Science,8,8.7,86.2,77.4,46.0,2.54,Yes,Yes,No,3.9,4,75.2,0,Not At Risk
+STU1999,24,Male,Social Sciences,7,17.8,67.1,60.3,79.2,1.9,No,Yes,No,7.6,4,57.8,0,Not At Risk
+STU2000,21,Female,Business,1,15.8,98.8,66.6,68.7,3.37,Yes,Yes,No,3.6,3,83.8,0,Not At Risk

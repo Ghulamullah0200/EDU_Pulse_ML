@@ -1,0 +1,22 @@
+feature,importance
+attendance_percentage,0.33032506645368853
+previous_gpa,0.1598451891719996
+absences,0.12309302327510889
+midterm_score,0.08233789697441682
+assignment_average,0.061447390370827595
+study_hours_per_week,0.05653267701463781
+extracurricular_hours_per_week,0.05025617132578964
+semester,0.03305490307298955
+age,0.03157645538454705
+extra_academic_support_Yes,0.007878554364493829
+part_time_job_Yes,0.007560409111553575
+department_Business,0.0073891354266580975
+extra_academic_support_No,0.006600430655573662
+part_time_job_No,0.006514312964369488
+gender_Female,0.006474568625564166
+gender_Male,0.006348837633100865
+department_Computer Science,0.005744228333256416
+department_Social Sciences,0.004979996011914448
+department_Engineering,0.004866498058667977
+internet_access_No,0.0037352079094165563
+internet_access_Yes,0.0034390478614255444
