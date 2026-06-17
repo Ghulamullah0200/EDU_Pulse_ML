@@ -1,5 +1,6 @@
 // ── API Configuration ────────────────────────────────────────────
-const API_URL = "http://localhost:8000";
+// Uses /api prefix — works both locally (Vite proxy) and on Vercel (serverless)
+const API_URL = "/api";
 
 // ── DOM Elements ─────────────────────────────────────────────────
 const authShell   = document.getElementById('auth-shell');
@@ -52,12 +53,16 @@ function checkAuth() {
 
 loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
-    const email = document.getElementById('email').value;
+    const email = document.getElementById('email').value.trim().toLowerCase();
     const pwd   = document.getElementById('password').value;
-    if (email.includes('@') && pwd.length > 3) {
+
+    // Only allow the authorized user
+    if (email === 'ghulam@edupulse.site' && pwd === 'bahzad12') {
         localStorage.setItem('edupulse_auth', 'true');
+        authError.classList.add('hidden');
         checkAuth();
     } else {
+        authError.textContent = 'Invalid email or password.';
         authError.classList.remove('hidden');
     }
 });

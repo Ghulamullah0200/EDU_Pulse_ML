@@ -11,6 +11,10 @@ from datetime import datetime
 
 DB_PATH = os.path.join(os.path.dirname(__file__), "edupulse.db")
 
+# On Vercel, filesystem is read-only except /tmp
+if os.environ.get("VERCEL"):
+    DB_PATH = "/tmp/edupulse.db"
+
 
 def _get_conn() -> sqlite3.Connection:
     """Return a connection with row_factory so results behave like dicts."""
